@@ -1,0 +1,605 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9779551E-1DFA-4BE3-B731-4153AA52DC01}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>M_JW2</RootNamespace>
+    <AssemblyName>M_JW2</AssemblyName>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DividerPanel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=09c394fd536ab886">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\execute\DividerPanel.dll</HintPath>
+    </Reference>
+    <Reference Include="Stone_Util, Version=1.0.1766.25824, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Stone_Util.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BrowseMusicName.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BrowseMusicName.designer.cs">
+      <DependentUpon>BrowseMusicName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBugleSendLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBugleSendLog.Designer.cs">
+      <DependentUpon>FrmBugleSendLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2ActivityExchangeLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2ActivityExchangeLog.Designer.cs">
+      <DependentUpon>FrmJW2ActivityExchangeLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJw2BanPlayerRead.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJw2BanPlayerRead.Designer.cs">
+      <DependentUpon>FrmJw2BanPlayerRead.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2Box.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2Box.designer.cs">
+      <DependentUpon>FrmJW2Box.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2BugleNickLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2BugleNickLog.designer.cs">
+      <DependentUpon>FrmJW2BugleNickLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2CoupleCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2CoupleCard.Designer.cs">
+      <DependentUpon>FrmJW2CoupleCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2DoubleExp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2DoubleExp.designer.cs">
+      <DependentUpon>FrmJW2DoubleExp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2FamilyBuyLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2FamilyBuyLog.Designer.cs">
+      <DependentUpon>FrmJW2FamilyBuyLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2FamilyFundLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2FamilyFundLog.Designer.cs">
+      <DependentUpon>FrmJW2FamilyFundLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2FamilyInfoRead.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2FamilyInfoRead.designer.cs">
+      <DependentUpon>FrmJW2FamilyInfoRead.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2FamilyTransfer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2FamilyTransfer.Designer.cs">
+      <DependentUpon>FrmJW2FamilyTransfer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2GMUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2GMUpdate.Designer.cs">
+      <DependentUpon>FrmJW2GMUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2HouseInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2HouseInfo.designer.cs">
+      <DependentUpon>FrmJW2HouseInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2InterfaceKick.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2InterfaceKick.Designer.cs">
+      <DependentUpon>FrmJW2InterfaceKick.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2InterfaceKickStand.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2InterfaceKickStand.Designer.cs">
+      <DependentUpon>FrmJW2InterfaceKickStand.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2ItemConsumerLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2ItemConsumerLog.Designer.cs">
+      <DependentUpon>FrmJW2ItemConsumerLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2ItemLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2ItemLog.designer.cs">
+      <DependentUpon>FrmJW2ItemLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2ItemManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2ItemManage.Designer.cs">
+      <DependentUpon>FrmJW2ItemManage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2CoupleInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2CoupleInfo.Designer.cs">
+      <DependentUpon>FrmJW2CoupleInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2Messenger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2Messenger.designer.cs">
+      <DependentUpon>FrmJW2Messenger.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2MissionLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2MissionLog.Designer.cs">
+      <DependentUpon>FrmJW2MissionLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2MMoney.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2MMoney.designer.cs">
+      <DependentUpon>FrmJW2MMoney.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2NoticeManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2NoticeManage.designer.cs">
+      <DependentUpon>FrmJW2NoticeManage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2BanPlayer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2BanPlayer.designer.cs">
+      <DependentUpon>FrmJW2BanPlayer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2FamilyInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2FamilyInfo.Designer.cs">
+      <DependentUpon>FrmJW2FamilyInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2FamilyItemInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2FamilyItemInfo.Designer.cs">
+      <DependentUpon>FrmJW2FamilyItemInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2KickPlayer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2KickPlayer.Designer.cs">
+      <DependentUpon>FrmJW2KickPlayer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2LoginInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2LoginInfo.Designer.cs">
+      <DependentUpon>FrmJW2LoginInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2OnlineReportsManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2OnlineReportsManage.Designer.cs">
+      <DependentUpon>FrmJW2OnlineReportsManage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2PicVertify.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2PicVertify.Designer.cs">
+      <DependentUpon>FrmJW2PicVertify.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2PicVertifyRead.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2PicVertifyRead.designer.cs">
+      <DependentUpon>FrmJW2PicVertifyRead.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2PlayerLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2PlayerLog.Designer.cs">
+      <DependentUpon>FrmJW2PlayerLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2QueryActiveCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2QueryActiveCard.Designer.cs">
+      <DependentUpon>FrmJW2QueryActiveCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2QueryUserChatContent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2QueryUserChatContent.designer.cs">
+      <DependentUpon>FrmJW2QueryUserChatContent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2QueryUserRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2QueryUserRoom.designer.cs">
+      <DependentUpon>FrmJW2QueryUserRoom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2QueryUserRoomChat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2QueryUserRoomChat.designer.cs">
+      <DependentUpon>FrmJW2QueryUserRoomChat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2RepeatBuyLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2RepeatBuyLog.Designer.cs">
+      <DependentUpon>FrmJW2RepeatBuyLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2SmallPetsLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2SmallPetsLog.Designer.cs">
+      <DependentUpon>FrmJW2SmallPetsLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2SyncUserNick.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2SyncUserNick.designer.cs">
+      <DependentUpon>FrmJW2SyncUserNick.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2SyntheticMaterialInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2SyntheticMaterialInfo.designer.cs">
+      <DependentUpon>FrmJW2SyntheticMaterialInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2UserInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2UserInfo.Designer.cs">
+      <DependentUpon>FrmJW2UserInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2UserInfoRead.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2UserInfoRead.Designer.cs">
+      <DependentUpon>FrmJW2UserInfoRead.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2UserInfoReadOnly.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2UserInfoReadOnly.designer.cs">
+      <DependentUpon>FrmJW2UserInfoReadOnly.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2UserManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2UserManage.Designer.cs">
+      <DependentUpon>FrmJW2UserManage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2WeddingInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2WeddingInfo.Designer.cs">
+      <DependentUpon>FrmJW2WeddingInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJW2WeddingPaper.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJW2WeddingPaper.Designer.cs">
+      <DependentUpon>FrmJW2WeddingPaper.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JW2PetInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JW2PetInfo.designer.cs">
+      <DependentUpon>JW2PetInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JW2PetInfoRead.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JW2PetInfoRead.designer.cs">
+      <DependentUpon>JW2PetInfoRead.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Operation.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\C_Controls\C_Controls.csproj">
+      <Project>{FA6A6246-1F2D-4128-9102-AFA5071877D5}</Project>
+      <Name>C_Controls</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\C_Event\C_Event.csproj">
+      <Project>{AC4B946A-461E-49F0-B32F-8B9F77A82F4C}</Project>
+      <Name>C_Event</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\C_Global\C_Global.csproj">
+      <Project>{A2581DD8-A5B1-4A0A-BCB5-866A7BD0879F}</Project>
+      <Name>C_Global</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Language\Language.csproj">
+      <Project>{0CEF33AA-3E36-4812-BE80-6E74C0E8690B}</Project>
+      <Name>Language</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="BrowseMusicName.resx">
+      <DependentUpon>BrowseMusicName.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBugleSendLog.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmBugleSendLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2ActivityExchangeLog.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmJW2ActivityExchangeLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJw2BanPlayerRead.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmJw2BanPlayerRead.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2Box.resx">
+      <DependentUpon>FrmJW2Box.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2BugleNickLog.resx">
+      <DependentUpon>FrmJW2BugleNickLog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2CoupleCard.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmJW2CoupleCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2CoupleInfo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmJW2CoupleInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2DoubleExp.resx">
+      <DependentUpon>FrmJW2DoubleExp.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2FamilyBuyLog.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmJW2FamilyBuyLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2FamilyFundLog.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmJW2FamilyFundLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2FamilyInfoRead.resx">
+      <DependentUpon>FrmJW2FamilyInfoRead.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2FamilyTransfer.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmJW2FamilyTransfer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2GMUpdate.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmJW2GMUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2HouseInfo.resx">
+      <DependentUpon>FrmJW2HouseInfo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2InterfaceKick.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmJW2InterfaceKick.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2InterfaceKickStand.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmJW2InterfaceKickStand.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2ItemConsumerLog.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmJW2ItemConsumerLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2ItemLog.resx">
+      <DependentUpon>FrmJW2ItemLog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2ItemManage.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmJW2ItemManage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2Messenger.resx">
+      <DependentUpon>FrmJW2Messenger.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2MissionLog.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmJW2MissionLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2MMoney.resx">
+      <DependentUpon>FrmJW2MMoney.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2NoticeManage.resx">
+      <DependentUpon>FrmJW2NoticeManage.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2BanPlayer.resx">
+      <DependentUpon>FrmJW2BanPlayer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2FamilyInfo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmJW2FamilyInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2FamilyItemInfo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmJW2FamilyItemInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2KickPlayer.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmJW2KickPlayer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2LoginInfo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmJW2LoginInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2OnlineReportsManage.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmJW2OnlineReportsManage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2PicVertify.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmJW2PicVertify.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2PicVertifyRead.resx">
+      <DependentUpon>FrmJW2PicVertifyRead.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2PlayerLog.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmJW2PlayerLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2QueryActiveCard.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmJW2QueryActiveCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2QueryUserChatContent.resx">
+      <DependentUpon>FrmJW2QueryUserChatContent.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2QueryUserRoom.resx">
+      <DependentUpon>FrmJW2QueryUserRoom.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2QueryUserRoomChat.resx">
+      <DependentUpon>FrmJW2QueryUserRoomChat.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2RepeatBuyLog.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmJW2RepeatBuyLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2SmallPetsLog.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmJW2SmallPetsLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2SyncUserNick.resx">
+      <DependentUpon>FrmJW2SyncUserNick.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2SyntheticMaterialInfo.resx">
+      <DependentUpon>FrmJW2SyntheticMaterialInfo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2UserInfo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmJW2UserInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2UserInfoRead.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmJW2UserInfoRead.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2UserInfoReadOnly.resx">
+      <DependentUpon>FrmJW2UserInfoReadOnly.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2UserManage.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmJW2UserManage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2WeddingInfo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmJW2WeddingInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJW2WeddingPaper.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmJW2WeddingPaper.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JW2PetInfo.resx">
+      <DependentUpon>JW2PetInfo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JW2PetInfoRead.resx">
+      <DependentUpon>JW2PetInfoRead.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="resources\add.gif" />
+    <Content Include="resources\close.gif" />
+    <Content Include="resources\close1.gif" />
+    <Content Include="resources\close2.gif" />
+    <Content Include="resources\close_open.gif" />
+    <Content Include="resources\close_over.gif" />
+    <Content Include="resources\close_over1.gif" />
+    <Content Include="resources\del.gif" />
+    <Content Include="resources\edit.gif" />
+    <Content Include="resources\next_1.gif" />
+    <Content Include="resources\prev_1.gif" />
+    <Content Include="resources\reset1.gif" />
+    <Content Include="resources\searchbutton.gif" />
+    <Content Include="resources\searchbutton1.gif" />
+    <Content Include="resources\searchbutton11.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <PropertyGroup>
+    <PostBuildEvent>copy "$(TargetPath)" "$(SolutionDir)execute\Modules"</PostBuildEvent>
+  </PropertyGroup>
+</Project>

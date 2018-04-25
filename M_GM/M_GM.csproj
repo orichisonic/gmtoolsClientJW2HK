@@ -1,0 +1,308 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A7A2D066-9D15-44D7-B451-6F01FEA4DCAF}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>App.ico</ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>M_GM</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>Library</OutputType>
+    <RootNamespace>M_GM</RootNamespace>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>true</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>full</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>false</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>none</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="C_Controls, Version=1.0.2250.29779, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\execute\C_Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="C_Event, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\execute\C_Event.dll</HintPath>
+    </Reference>
+    <Reference Include="C_Global, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\execute\C_Global.dll</HintPath>
+    </Reference>
+    <Reference Include="C_Log, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\execute\C_Log.dll</HintPath>
+    </Reference>
+    <Reference Include="C_Socket, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\execute\C_Socket.dll</HintPath>
+    </Reference>
+    <Reference Include="DividerPanel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=09c394fd536ab886">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\execute\DividerPanel.dll</HintPath>
+    </Reference>
+    <Reference Include="ImageTextControl, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\execute\ImageTextControl.dll</HintPath>
+    </Reference>
+    <Reference Include="Language, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\execute\Language.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Management">
+      <Name>System.Management</Name>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccountList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DefaultRoles.cs" />
+    <Compile Include="Functions.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="GameList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GMActionList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GMActionList.Designer.cs">
+      <DependentUpon>GMActionList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GMAdmin.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ModiRole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModiUserAttribute.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModiUserPwd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModuleList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewDepartment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewDepartment.Designer.cs">
+      <DependentUpon>NewDepartment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewModule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NoteProcessInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NoteProcessInfo.Designer.cs">
+      <DependentUpon>NoteProcessInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NotesList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NotesProcess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NotesToMe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NotesToMe.Designer.cs">
+      <DependentUpon>NotesToMe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SetServer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SetServer.Designer.cs">
+      <DependentUpon>SetServer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Status.cs" />
+    <Compile Include="Struct.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="UserSelfEditPwd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserSelfEditPwd.Designer.cs">
+      <DependentUpon>UserSelfEditPwd.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AccountList.resx">
+      <DependentUpon>AccountList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GameList.resx">
+      <DependentUpon>GameList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GMActionList.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>GMActionList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModiRole.resx">
+      <DependentUpon>ModiRole.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModiUserAttribute.resx">
+      <DependentUpon>ModiUserAttribute.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModiUserPwd.resx">
+      <DependentUpon>ModiUserPwd.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModuleList.resx">
+      <DependentUpon>ModuleList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewDepartment.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>NewDepartment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewGame.resx">
+      <DependentUpon>NewGame.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewModule.resx">
+      <DependentUpon>NewModule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewUser.resx">
+      <DependentUpon>NewUser.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NoteProcessInfo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>NoteProcessInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NotesList.resx">
+      <DependentUpon>NotesList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NotesProcess.resx">
+      <DependentUpon>NotesProcess.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NotesToMe.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>NotesToMe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SetServer.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SetServer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserSelfEditPwd.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UserSelfEditPwd.cs</DependentUpon>
+    </EmbeddedResource>
+    <Content Include="App.ico" />
+    <None Include="Resources\prev_1.gif" />
+    <None Include="Resources\next_1.gif" />
+    <None Include="Resources\refresh.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>xcopy "$(TargetPath)" "$(SolutionDir)execute\Modules\" /y /s</PostBuildEvent>
+  </PropertyGroup>
+</Project>

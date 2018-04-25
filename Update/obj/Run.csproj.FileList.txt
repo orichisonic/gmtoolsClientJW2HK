@@ -1,0 +1,8 @@
+..\execute\Run.exe
+..\execute\Run.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Run.Properties.Resources.resources
+obj\Debug\Update.Run.resources
+obj\Debug\Run.csproj.GenerateResource.Cache
+obj\Debug\Run.exe
+obj\Debug\Run.pdb

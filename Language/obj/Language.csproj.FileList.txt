@@ -1,0 +1,6 @@
+bin\Debug\Language.dll
+bin\Debug\Language.pdb
+bin\Debug\C_Global.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Language.dll
+obj\Debug\Language.pdb

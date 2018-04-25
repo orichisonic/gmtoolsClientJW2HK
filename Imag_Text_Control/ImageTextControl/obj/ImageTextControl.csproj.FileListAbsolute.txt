@@ -1,0 +1,88 @@
+C:\gmtools(taiwan)\execute\ImageTextControl.dll
+C:\gmtools(taiwan)\execute\ImageTextControl.pdb
+C:\gmtools(taiwan)\Imag_Text_Control\ImageTextControl\obj\Debug\ResolveAssemblyReference.cache
+C:\gmtools(taiwan)\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.IMGTXTCTRL.resources
+C:\gmtools(taiwan)\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.Properties.Resources.resources
+C:\gmtools(taiwan)\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.csproj.GenerateResource.Cache
+C:\gmtools(taiwan)\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.dll
+C:\gmtools(taiwan)\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.pdb
+C:\gmtools(香港 敢达)\execute\ImageTextControl.dll
+C:\gmtools(香港 敢达)\execute\ImageTextControl.pdb
+C:\gmtools(香港 敢达)\Imag_Text_Control\ImageTextControl\obj\Debug\ResolveAssemblyReference.cache
+C:\gmtools(香港 敢达)\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.IMGTXTCTRL.resources
+C:\gmtools(香港 敢达)\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.Properties.Resources.resources
+C:\gmtools(香港 敢达)\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.csproj.GenerateResource.Cache
+C:\gmtools(香港 敢达)\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.dll
+C:\gmtools(香港 敢达)\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.pdb
+C:\gmtools(hongkongSD)\execute\ImageTextControl.dll
+C:\gmtools(hongkongSD)\execute\ImageTextControl.pdb
+C:\gmtools(hongkongSD)\Imag_Text_Control\ImageTextControl\obj\Debug\ResolveAssemblyReference.cache
+C:\gmtools(hongkongSD)\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.IMGTXTCTRL.resources
+C:\gmtools(hongkongSD)\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.Properties.Resources.resources
+C:\gmtools(hongkongSD)\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.csproj.GenerateResource.Cache
+C:\gmtools(hongkongSD)\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.dll
+C:\gmtools(hongkongSD)\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.pdb
+D:\gmtools client(hongkongSD)\execute\ImageTextControl.dll
+D:\gmtools client(hongkongSD)\execute\ImageTextControl.pdb
+D:\gmtools client(hongkongSD)\Imag_Text_Control\ImageTextControl\obj\Debug\ResolveAssemblyReference.cache
+D:\gmtools client(hongkongSD)\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.IMGTXTCTRL.resources
+D:\gmtools client(hongkongSD)\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.Properties.Resources.resources
+D:\gmtools client(hongkongSD)\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.csproj.GenerateResource.Cache
+D:\gmtools client(hongkongSD)\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.dll
+D:\gmtools client(hongkongSD)\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.pdb
+D:\gmtoolsclient\execute\ImageTextControl.dll
+D:\gmtoolsclient\execute\ImageTextControl.pdb
+D:\gmtoolsclient\Imag_Text_Control\ImageTextControl\obj\Debug\ResolveAssemblyReference.cache
+D:\gmtoolsclient\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.IMGTXTCTRL.resources
+D:\gmtoolsclient\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.Properties.Resources.resources
+D:\gmtoolsclient\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.csproj.GenerateResource.Cache
+D:\gmtoolsclient\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.dll
+D:\gmtoolsclient\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.pdb
+D:\gmtools客户端(香港SD)\execute\ImageTextControl.dll
+D:\gmtools客户端(香港SD)\execute\ImageTextControl.pdb
+D:\gmtools客户端(香港SD)\Imag_Text_Control\ImageTextControl\obj\Debug\ResolveAssemblyReference.cache
+D:\gmtools客户端(香港SD)\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.IMGTXTCTRL.resources
+D:\gmtools客户端(香港SD)\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.Properties.Resources.resources
+D:\gmtools客户端(香港SD)\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.csproj.GenerateResource.Cache
+D:\gmtools客户端(香港SD)\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.dll
+D:\gmtools客户端(香港SD)\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.pdb
+D:\海外GMTOOLS\gmtools客户端(香港SD)\execute\ImageTextControl.dll
+D:\海外GMTOOLS\gmtools客户端(香港SD)\execute\ImageTextControl.pdb
+D:\海外GMTOOLS\gmtools客户端(香港SD)\Imag_Text_Control\ImageTextControl\obj\Debug\ResolveAssemblyReference.cache
+D:\海外GMTOOLS\gmtools客户端(香港SD)\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.IMGTXTCTRL.resources
+D:\海外GMTOOLS\gmtools客户端(香港SD)\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.Properties.Resources.resources
+D:\海外GMTOOLS\gmtools客户端(香港SD)\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.csproj.GenerateResource.Cache
+D:\海外GMTOOLS\gmtools客户端(香港SD)\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.dll
+D:\海外GMTOOLS\gmtools客户端(香港SD)\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.pdb
+D:\gmtoolsSD\execute\ImageTextControl.dll
+D:\gmtoolsSD\execute\ImageTextControl.pdb
+D:\gmtoolsSD\Imag_Text_Control\ImageTextControl\obj\Debug\ResolveAssemblyReference.cache
+D:\gmtoolsSD\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.IMGTXTCTRL.resources
+D:\gmtoolsSD\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.Properties.Resources.resources
+D:\gmtoolsSD\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.csproj.GenerateResource.Cache
+D:\gmtoolsSD\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.dll
+D:\gmtoolsSD\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.pdb
+D:\海外GMTOOLS\gmtoolsSD客户端\execute\ImageTextControl.dll
+D:\海外GMTOOLS\gmtoolsSD客户端\execute\ImageTextControl.pdb
+D:\海外GMTOOLS\gmtoolsSD客户端\Imag_Text_Control\ImageTextControl\obj\Debug\ResolveAssemblyReference.cache
+D:\海外GMTOOLS\gmtoolsSD客户端\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.IMGTXTCTRL.resources
+D:\海外GMTOOLS\gmtoolsSD客户端\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.Properties.Resources.resources
+D:\海外GMTOOLS\gmtoolsSD客户端\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.csproj.GenerateResource.Cache
+D:\海外GMTOOLS\gmtoolsSD客户端\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.dll
+D:\海外GMTOOLS\gmtoolsSD客户端\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.pdb
+E:\香港jw2\gmtools香港jw2客户端\execute\ImageTextControl.dll
+E:\香港jw2\gmtools香港jw2客户端\execute\ImageTextControl.pdb
+E:\香港jw2\gmtools香港jw2客户端\Imag_Text_Control\ImageTextControl\obj\Debug\ResolveAssemblyReference.cache
+E:\香港jw2\gmtools香港jw2客户端\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.IMGTXTCTRL.resources
+E:\香港jw2\gmtools香港jw2客户端\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.Properties.Resources.resources
+E:\香港jw2\gmtools香港jw2客户端\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.csproj.GenerateResource.Cache
+E:\香港jw2\gmtools香港jw2客户端\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.dll
+E:\香港jw2\gmtools香港jw2客户端\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.pdb
+E:\香港jw2\gmtoolsClientJW2HK\execute\ImageTextControl.dll
+E:\香港jw2\gmtoolsClientJW2HK\execute\ImageTextControl.pdb
+E:\香港jw2\gmtoolsClientJW2HK\Imag_Text_Control\ImageTextControl\obj\Debug\ResolveAssemblyReference.cache
+E:\香港jw2\gmtoolsClientJW2HK\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.IMGTXTCTRL.resources
+E:\香港jw2\gmtoolsClientJW2HK\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.Properties.Resources.resources
+E:\香港jw2\gmtoolsClientJW2HK\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.csproj.GenerateResource.Cache
+E:\香港jw2\gmtoolsClientJW2HK\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.dll
+E:\香港jw2\gmtoolsClientJW2HK\Imag_Text_Control\ImageTextControl\obj\Debug\ImageTextControl.pdb

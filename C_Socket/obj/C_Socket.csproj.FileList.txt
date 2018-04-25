@@ -1,0 +1,7 @@
+bin\Debug\C_Socket.dll
+bin\Debug\C_Socket.pdb
+bin\Debug\C_Global.dll
+bin\Debug\C_Global.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\C_Socket.dll
+obj\Debug\C_Socket.pdb

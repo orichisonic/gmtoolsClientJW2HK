@@ -1,0 +1,440 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6DB2FDC4-B372-4571-8581-26673E8545D2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>M_SDO</RootNamespace>
+    <AssemblyName>M_SDO</AssemblyName>
+    <SccProjectName>"%24/GM管理系统/超级舞者台湾版/GMCLIENT", WPGBAAAA</SccProjectName>
+    <SccLocalPath>..</SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>MSSCCI:Microsoft Visual SourceSafe</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="C_Controls, Version=1.0.2257.21931, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\execute\C_Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="C_Log, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\execute\C_Log.dll</HintPath>
+    </Reference>
+    <Reference Include="DividerPanel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=09c394fd536ab886">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\execute\DividerPanel.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccountFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AccountFrm.Designer.cs">
+      <DependentUpon>AccountFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ActiveBlanket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ActiveBlanket.Designer.cs">
+      <DependentUpon>ActiveBlanket.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BlanketSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BlanketSearch.Designer.cs">
+      <DependentUpon>BlanketSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BlanketToUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BlanketToUser.Designer.cs">
+      <DependentUpon>BlanketToUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BrowseDaysLimit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BrowseDaysLimit.Designer.cs">
+      <DependentUpon>BrowseDaysLimit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BrowseMusicName.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BrowseMusicName.Designer.cs">
+      <DependentUpon>BrowseMusicName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CloseFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CloseFrm.Designer.cs">
+      <DependentUpon>CloseFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExecueResultValue.cs" />
+    <Compile Include="FrmQueryBoxFunction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmQueryBoxFunction.designer.cs">
+      <DependentUpon>FrmQueryBoxFunction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmQueryjifen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmQueryjifen.Designer.cs">
+      <DependentUpon>FrmQueryjifen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSdoNotice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSdoNotice.Designer.cs">
+      <DependentUpon>FrmSdoNotice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmStageEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmStageEdit.designer.cs">
+      <DependentUpon>FrmStageEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUserFreind.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUserFreind.Designer.cs">
+      <DependentUpon>FrmUserFreind.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmYYItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmYYItem.Designer.cs">
+      <DependentUpon>FrmYYItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginFrm.Designer.cs">
+      <DependentUpon>LoginFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogOff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogOff.designer.cs">
+      <DependentUpon>LogOff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MatchInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MatchInfo.Designer.cs">
+      <DependentUpon>MatchInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MatchInfoEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MatchInfoEdit.Designer.cs">
+      <DependentUpon>MatchInfoEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Notice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Notice.Designer.cs">
+      <DependentUpon>Notice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NoticeDataInfo.cs" />
+    <Compile Include="Operation.cs" />
+    <Compile Include="PartFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PartFrm.Designer.cs">
+      <DependentUpon>PartFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PasswordFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PasswordFrm.Designer.cs">
+      <DependentUpon>PasswordFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="RateEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RateEdit.Designer.cs">
+      <DependentUpon>RateEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RechargeableFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RechargeableFrm.Designer.cs">
+      <DependentUpon>RechargeableFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResupplyFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResupplyFrm.Designer.cs">
+      <DependentUpon>ResupplyFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SDONoticeInfoAPI.cs" />
+    <Compile Include="SearchGateWay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchGateWay.designer.cs">
+      <DependentUpon>SearchGateWay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SenceEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SenceEdit.Designer.cs">
+      <DependentUpon>SenceEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShoppingFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShoppingFrm.Designer.cs">
+      <DependentUpon>ShoppingFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShortStringArrayDictionary.cs" />
+    <Compile Include="ShortStringDictionary.cs" />
+    <Compile Include="StatusFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StatusFrm.Designer.cs">
+      <DependentUpon>StatusFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SyncUserNick.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SyncUserNick.Designer.cs">
+      <DependentUpon>SyncUserNick.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TradeFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TradeFrm.Designer.cs">
+      <DependentUpon>TradeFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateFrm.Designer.cs">
+      <DependentUpon>UpdateFrm.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AccountFrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AccountFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ActiveBlanket.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ActiveBlanket.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BlanketSearch.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BlanketSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BlanketToUser.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BlanketToUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BrowseDaysLimit.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BrowseDaysLimit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BrowseMusicName.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BrowseMusicName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CloseFrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CloseFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmQueryBoxFunction.resx">
+      <DependentUpon>FrmQueryBoxFunction.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmQueryjifen.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmQueryjifen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSdoNotice.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmSdoNotice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmStageEdit.resx">
+      <DependentUpon>FrmStageEdit.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUserFreind.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmUserFreind.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmYYItem.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmYYItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginFrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>LoginFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogOff.resx">
+      <DependentUpon>LogOff.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MatchInfo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MatchInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MatchInfoEdit.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MatchInfoEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Notice.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Notice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PartFrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PartFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PasswordFrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PasswordFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RateEdit.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>RateEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RechargeableFrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>RechargeableFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResupplyFrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ResupplyFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchGateWay.resx">
+      <DependentUpon>SearchGateWay.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SenceEdit.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SenceEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShoppingFrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ShoppingFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StatusFrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>StatusFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SyncUserNick.resx">
+      <DependentUpon>SyncUserNick.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TradeFrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TradeFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateFrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UpdateFrm.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\del.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\prev_1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\next_1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\searchbutton.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\searchbutton1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close_open.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close_over.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close_over1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reset1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\searchbutton11.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\C_Event\C_Event.csproj">
+      <Project>{AC4B946A-461E-49F0-B32F-8B9F77A82F4C}</Project>
+      <Name>C_Event</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\C_Global\C_Global.csproj">
+      <Project>{A2581DD8-A5B1-4A0A-BCB5-866A7BD0879F}</Project>
+      <Name>C_Global</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Language\Language.csproj">
+      <Project>{0CEF33AA-3E36-4812-BE80-6E74C0E8690B}</Project>
+      <Name>Language</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <PropertyGroup>
+    <PostBuildEvent>xcopy "$(TargetPath)" "$(SolutionDir)execute\Modules" /y /s</PostBuildEvent>
+  </PropertyGroup>
+</Project>

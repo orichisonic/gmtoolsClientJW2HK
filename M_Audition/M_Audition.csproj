@@ -1,0 +1,166 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{54A990B0-192C-4FBA-9B9D-97F6A237F566}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>M_Audition</RootNamespace>
+    <AssemblyName>M_Audition</AssemblyName>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="C_Controls, Version=1.0.2257.21931, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\execute\C_Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="C_Event, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\execute\C_Event.dll</HintPath>
+    </Reference>
+    <Reference Include="C_Global, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\execute\C_Global.dll</HintPath>
+    </Reference>
+    <Reference Include="C_Log, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\execute\C_Log.dll</HintPath>
+    </Reference>
+    <Reference Include="C_Socket, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\execute\C_Socket.dll</HintPath>
+    </Reference>
+    <Reference Include="DividerPanel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=09c394fd536ab886">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\execute\DividerPanel.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ExchangeFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExchangeFrm.Designer.cs">
+      <DependentUpon>ExchangeFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExchangeMoreInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExchangeMoreInfo.Designer.cs">
+      <DependentUpon>ExchangeMoreInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemAddFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemAddFrm.Designer.cs">
+      <DependentUpon>ItemAddFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemListFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemListFrm.Designer.cs">
+      <DependentUpon>ItemListFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemSalesFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemSalesFrm.Designer.cs">
+      <DependentUpon>ItemSalesFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MusicListFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MusicListFrm.Designer.cs">
+      <DependentUpon>MusicListFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Operation.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StarListFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StarListFrm.Designer.cs">
+      <DependentUpon>StarListFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserstatFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserstatFrm.Designer.cs">
+      <DependentUpon>UserstatFrm.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ExchangeFrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ExchangeFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExchangeMoreInfo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ExchangeMoreInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemAddFrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ItemAddFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemListFrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ItemListFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemSalesFrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ItemSalesFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MusicListFrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MusicListFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StarListFrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>StarListFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserstatFrm.resx">
+      <DependentUpon>UserstatFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <PropertyGroup>
+    <PostBuildEvent>copy $(TargetPath) $(SolutionDir)execute\Modules</PostBuildEvent>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,230 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9AB151CC-5399-4F3B-8107-24D61E00EF00}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>App.ico</ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>FRM_MJ</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>Library</OutputType>
+    <RootNamespace>FRM_MJ</RootNamespace>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>true</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>full</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>false</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>none</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="C_Controls, Version=1.0.2257.21931, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\execute\C_Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="C_Event, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\execute\C_Event.dll</HintPath>
+    </Reference>
+    <Reference Include="C_Global, Version=1.0.0.2, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\execute\C_Global.dll</HintPath>
+    </Reference>
+    <Reference Include="C_Log, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\execute\C_Log.dll</HintPath>
+    </Reference>
+    <Reference Include="C_Socket, Version=1.0.0.1, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\execute\C_Socket.dll</HintPath>
+    </Reference>
+    <Reference Include="DividerPanel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=09c394fd536ab886">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\execute\DividerPanel.dll</HintPath>
+    </Reference>
+    <Reference Include="ImageTextControl, Version=1.0.0.3, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\execute\ImageTextControl.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.XML">
+      <Name>System.XML</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App.ico" />
+    <Compile Include="accountBehavior.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="accountBehavior.Designer.cs">
+      <DependentUpon>accountBehavior.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AssemblyInfo.cs" />
+    <Compile Include="characterlnfoList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="characterlnfoSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newPwd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newPwd.Designer.cs">
+      <DependentUpon>newPwd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Status.cs" />
+    <Compile Include="userGoodsList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userGoodsList.Designer.cs">
+      <DependentUpon>userGoodsList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userInfoOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userPwdBehavior.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userPwdBehavior.Designer.cs">
+      <DependentUpon>userPwdBehavior.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userStatusAttribute.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userStatusAttribute.Designer.cs">
+      <DependentUpon>userStatusAttribute.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userTrade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userTrade.Designer.cs">
+      <DependentUpon>userTrade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="waiting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="waiting.Designer.cs">
+      <DependentUpon>waiting.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="accountBehavior.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>accountBehavior.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="characterlnfoList.resx">
+      <DependentUpon>characterlnfoList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="characterlnfoSearch.resx">
+      <DependentUpon>characterlnfoSearch.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newPwd.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>newPwd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userGoodsList.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>userGoodsList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userInfoOrder.resx">
+      <DependentUpon>userInfoOrder.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userPwdBehavior.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>userPwdBehavior.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userStatusAttribute.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>userStatusAttribute.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userTrade.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>userTrade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="waiting.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>waiting.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>copy $(TargetPath) $(SolutionDir)execute\Modules</PostBuildEvent>
+  </PropertyGroup>
+</Project>

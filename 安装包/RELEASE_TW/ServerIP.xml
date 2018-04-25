@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property>
+    <server>
+		<server-name>服务器端</server-name>
+		<server-ip>192.168.8.130</server-ip>
+                <server-port>10117</server-port>
+		<server-cnt>10</server-cnt>
+    </server>
+    
+    <database>
+        <DataBaseIP>192.168.33.234</DataBaseIP>
+		<username>GMTOOLS</username>
+		<dataname>GMTOOLS</dataname>
+		<password>GMTOOLS123!@#</password>
+    </database>
+</property>

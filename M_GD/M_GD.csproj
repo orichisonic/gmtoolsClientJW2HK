@@ -1,0 +1,302 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7C601BF4-2D51-45BA-99DB-0396CF35DC81}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>M_GD</RootNamespace>
+    <AssemblyName>M_GD</AssemblyName>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DividerPanel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=09c394fd536ab886">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\execute\DividerPanel.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmGDAccountManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGDAccountManage.Designer.cs">
+      <DependentUpon>FrmGDAccountManage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGDActiveCode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGDActiveCode.Designer.cs">
+      <DependentUpon>FrmGDActiveCode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGDActiveCodeQuery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGDActiveCodeQuery.Designer.cs">
+      <DependentUpon>FrmGDActiveCodeQuery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGDAccountInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGDAccountInfo.Designer.cs">
+      <DependentUpon>FrmGDAccountInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGDBanPlayer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGDBanPlayer.Designer.cs">
+      <DependentUpon>FrmGDBanPlayer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGDBodyRecover.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGDBodyRecover.Designer.cs">
+      <DependentUpon>FrmGDBodyRecover.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGDFriendInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGDFriendInfo.Designer.cs">
+      <DependentUpon>FrmGDFriendInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGDGiftInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGDGiftInfo.Designer.cs">
+      <DependentUpon>FrmGDGiftInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGDGmManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGDGmManage.Designer.cs">
+      <DependentUpon>FrmGDGmManage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGDItemDelInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGDItemDelInfo.Designer.cs">
+      <DependentUpon>FrmGDItemDelInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGDItemManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGDItemManage.Designer.cs">
+      <DependentUpon>FrmGDItemManage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGDKickPlayer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGDKickPlayer.Designer.cs">
+      <DependentUpon>FrmGDKickPlayer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGDLoginInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGDLoginInfo.Designer.cs">
+      <DependentUpon>FrmGDLoginInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGDModiBodyLevel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGDModiBodyLevel.Designer.cs">
+      <DependentUpon>FrmGDModiBodyLevel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGDModiMoney.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGDModiMoney.Designer.cs">
+      <DependentUpon>FrmGDModiMoney.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGDNoticeManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGDNoticeManage.Designer.cs">
+      <DependentUpon>FrmGDNoticeManage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGDPlayerLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGDPlayerLog.Designer.cs">
+      <DependentUpon>FrmGDPlayerLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGDPurchaseLogInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGDPurchaseLogInfo.Designer.cs">
+      <DependentUpon>FrmGDPurchaseLogInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGDRankingInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGDRankingInfo.Designer.cs">
+      <DependentUpon>FrmGDRankingInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGDSafeCustodyVaultInfo .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGDSafeCustodyVaultInfo .Designer.cs">
+      <DependentUpon>FrmGDSafeCustodyVaultInfo .cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGDSystemMail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGDSystemMail.Designer.cs">
+      <DependentUpon>FrmGDSystemMail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Operation.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\C_Controls\C_Controls.csproj">
+      <Project>{FA6A6246-1F2D-4128-9102-AFA5071877D5}</Project>
+      <Name>C_Controls</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\C_Event\C_Event.csproj">
+      <Project>{AC4B946A-461E-49F0-B32F-8B9F77A82F4C}</Project>
+      <Name>C_Event</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\C_Global\C_Global.csproj">
+      <Project>{A2581DD8-A5B1-4A0A-BCB5-866A7BD0879F}</Project>
+      <Name>C_Global</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\C_Socket\C_Socket.csproj">
+      <Project>{BCA834E4-DD6B-4733-8C55-8CF1334C8C60}</Project>
+      <Name>C_Socket</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Imag_Text_Control\ImageTextControl\ImageTextControl.csproj">
+      <Project>{C26EC1E7-F852-4177-832C-0F7B41DB1CCF}</Project>
+      <Name>ImageTextControl</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Language\Language.csproj">
+      <Project>{0CEF33AA-3E36-4812-BE80-6E74C0E8690B}</Project>
+      <Name>Language</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FrmGDAccountManage.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmGDAccountManage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGDActiveCode.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmGDActiveCode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGDActiveCodeQuery.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmGDActiveCodeQuery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGDAccountInfo.resx">
+      <DependentUpon>FrmGDAccountInfo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGDBanPlayer.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmGDBanPlayer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGDBodyRecover.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmGDBodyRecover.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGDFriendInfo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmGDFriendInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGDGiftInfo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmGDGiftInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGDGmManage.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmGDGmManage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGDItemDelInfo.resx">
+      <DependentUpon>FrmGDItemDelInfo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGDItemManage.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmGDItemManage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGDKickPlayer.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmGDKickPlayer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGDLoginInfo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmGDLoginInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGDModiBodyLevel.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmGDModiBodyLevel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGDModiMoney.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmGDModiMoney.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGDNoticeManage.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmGDNoticeManage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGDPlayerLog.resx">
+      <DependentUpon>FrmGDPlayerLog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGDPurchaseLogInfo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmGDPurchaseLogInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGDRankingInfo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmGDRankingInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGDSafeCustodyVaultInfo .resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmGDSafeCustodyVaultInfo .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGDSystemMail.resx">
+      <DependentUpon>FrmGDSystemMail.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <PropertyGroup>
+    <PostBuildEvent>copy "$(TargetPath)" "$(SolutionDir)execute\Modules"</PostBuildEvent>
+  </PropertyGroup>
+</Project>

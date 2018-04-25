@@ -1,0 +1,93 @@
+C:\gmtools(taiwan)\C_Event\bin\Debug\C_Event.dll
+C:\gmtools(taiwan)\C_Event\bin\Debug\C_Event.pdb
+C:\gmtools(taiwan)\C_Event\bin\Debug\C_Global.dll
+C:\gmtools(taiwan)\C_Event\bin\Debug\C_Log.dll
+C:\gmtools(taiwan)\C_Event\bin\Debug\C_Socket.dll
+C:\gmtools(taiwan)\C_Event\obj\Debug\ResolveAssemblyReference.cache
+C:\gmtools(taiwan)\C_Event\obj\Debug\C_Event.dll
+C:\gmtools(taiwan)\C_Event\obj\Debug\C_Event.pdb
+C:\gmtools(taiwan)\C_Event\bin\Debug\C_Controls.dll
+C:\gmtools(taiwan)\C_Event\bin\Debug\C_Controls.pdb
+C:\gmtools(香港 敢达)\C_Event\bin\Debug\C_Event.dll
+C:\gmtools(香港 敢达)\C_Event\bin\Debug\C_Event.pdb
+C:\gmtools(香港 敢达)\C_Event\bin\Debug\C_Global.dll
+C:\gmtools(香港 敢达)\C_Event\bin\Debug\C_Log.dll
+C:\gmtools(香港 敢达)\C_Event\bin\Debug\C_Socket.dll
+C:\gmtools(香港 敢达)\C_Event\bin\Debug\C_Controls.pdb
+C:\gmtools(香港 敢达)\C_Event\obj\Debug\ResolveAssemblyReference.cache
+C:\gmtools(香港 敢达)\C_Event\obj\Debug\C_Event.dll
+C:\gmtools(香港 敢达)\C_Event\obj\Debug\C_Event.pdb
+C:\gmtools(hongkongSD)\C_Event\bin\Debug\C_Event.dll
+C:\gmtools(hongkongSD)\C_Event\bin\Debug\C_Event.pdb
+C:\gmtools(hongkongSD)\C_Event\bin\Debug\C_Controls.dll
+C:\gmtools(hongkongSD)\C_Event\bin\Debug\C_Global.dll
+C:\gmtools(hongkongSD)\C_Event\bin\Debug\C_Log.dll
+C:\gmtools(hongkongSD)\C_Event\bin\Debug\C_Socket.dll
+C:\gmtools(hongkongSD)\C_Event\bin\Debug\C_Controls.pdb
+C:\gmtools(hongkongSD)\C_Event\obj\Debug\ResolveAssemblyReference.cache
+C:\gmtools(hongkongSD)\C_Event\obj\Debug\C_Event.dll
+C:\gmtools(hongkongSD)\C_Event\obj\Debug\C_Event.pdb
+D:\gmtools client(hongkongSD)\C_Event\obj\Debug\ResolveAssemblyReference.cache
+D:\gmtoolsclient\C_Event\bin\Debug\C_Event.dll
+D:\gmtoolsclient\C_Event\bin\Debug\C_Event.pdb
+D:\gmtoolsclient\C_Event\bin\Debug\C_Controls.dll
+D:\gmtoolsclient\C_Event\bin\Debug\C_Global.dll
+D:\gmtoolsclient\C_Event\bin\Debug\C_Socket.dll
+D:\gmtoolsclient\C_Event\bin\Debug\C_Controls.pdb
+D:\gmtoolsclient\C_Event\obj\Debug\ResolveAssemblyReference.cache
+D:\gmtoolsclient\C_Event\obj\Debug\C_Event.dll
+D:\gmtoolsclient\C_Event\obj\Debug\C_Event.pdb
+D:\gmtools客户端(香港SD)\C_Event\bin\Debug\C_Event.dll
+D:\gmtools客户端(香港SD)\C_Event\bin\Debug\C_Event.pdb
+D:\gmtools客户端(香港SD)\C_Event\bin\Debug\C_Controls.dll
+D:\gmtools客户端(香港SD)\C_Event\bin\Debug\C_Global.dll
+D:\gmtools客户端(香港SD)\C_Event\bin\Debug\C_Socket.dll
+D:\gmtools客户端(香港SD)\C_Event\bin\Debug\C_Controls.pdb
+D:\gmtools客户端(香港SD)\C_Event\obj\Debug\ResolveAssemblyReference.cache
+D:\gmtools客户端(香港SD)\C_Event\obj\Debug\C_Event.dll
+D:\gmtools客户端(香港SD)\C_Event\obj\Debug\C_Event.pdb
+D:\海外GMTOOLS\gmtools客户端(香港SD)\C_Event\bin\Debug\C_Event.dll
+D:\海外GMTOOLS\gmtools客户端(香港SD)\C_Event\bin\Debug\C_Event.pdb
+D:\海外GMTOOLS\gmtools客户端(香港SD)\C_Event\bin\Debug\C_Controls.dll
+D:\海外GMTOOLS\gmtools客户端(香港SD)\C_Event\bin\Debug\C_Global.dll
+D:\海外GMTOOLS\gmtools客户端(香港SD)\C_Event\bin\Debug\C_Socket.dll
+D:\海外GMTOOLS\gmtools客户端(香港SD)\C_Event\bin\Debug\C_Controls.pdb
+D:\海外GMTOOLS\gmtools客户端(香港SD)\C_Event\obj\Debug\ResolveAssemblyReference.cache
+D:\海外GMTOOLS\gmtools客户端(香港SD)\C_Event\obj\Debug\C_Event.dll
+D:\海外GMTOOLS\gmtools客户端(香港SD)\C_Event\obj\Debug\C_Event.pdb
+D:\gmtoolsSD\C_Event\bin\Debug\C_Event.dll
+D:\gmtoolsSD\C_Event\bin\Debug\C_Event.pdb
+D:\gmtoolsSD\C_Event\bin\Debug\C_Controls.dll
+D:\gmtoolsSD\C_Event\bin\Debug\C_Global.dll
+D:\gmtoolsSD\C_Event\bin\Debug\C_Socket.dll
+D:\gmtoolsSD\C_Event\bin\Debug\C_Controls.pdb
+D:\gmtoolsSD\C_Event\obj\Debug\ResolveAssemblyReference.cache
+D:\gmtoolsSD\C_Event\obj\Debug\C_Event.dll
+D:\gmtoolsSD\C_Event\obj\Debug\C_Event.pdb
+D:\海外GMTOOLS\gmtoolsSD客户端\C_Event\bin\Debug\C_Event.dll
+D:\海外GMTOOLS\gmtoolsSD客户端\C_Event\bin\Debug\C_Event.pdb
+D:\海外GMTOOLS\gmtoolsSD客户端\C_Event\bin\Debug\C_Controls.dll
+D:\海外GMTOOLS\gmtoolsSD客户端\C_Event\bin\Debug\C_Global.dll
+D:\海外GMTOOLS\gmtoolsSD客户端\C_Event\bin\Debug\C_Socket.dll
+D:\海外GMTOOLS\gmtoolsSD客户端\C_Event\bin\Debug\C_Controls.pdb
+D:\海外GMTOOLS\gmtoolsSD客户端\C_Event\obj\Debug\ResolveAssemblyReference.cache
+D:\海外GMTOOLS\gmtoolsSD客户端\C_Event\obj\Debug\C_Event.dll
+D:\海外GMTOOLS\gmtoolsSD客户端\C_Event\obj\Debug\C_Event.pdb
+E:\香港jw2\gmtools香港jw2客户端\C_Event\bin\Debug\C_Event.dll
+E:\香港jw2\gmtools香港jw2客户端\C_Event\bin\Debug\C_Event.pdb
+E:\香港jw2\gmtools香港jw2客户端\C_Event\bin\Debug\C_Controls.dll
+E:\香港jw2\gmtools香港jw2客户端\C_Event\bin\Debug\C_Global.dll
+E:\香港jw2\gmtools香港jw2客户端\C_Event\bin\Debug\C_Socket.dll
+E:\香港jw2\gmtools香港jw2客户端\C_Event\bin\Debug\C_Controls.pdb
+E:\香港jw2\gmtools香港jw2客户端\C_Event\obj\Debug\ResolveAssemblyReference.cache
+E:\香港jw2\gmtools香港jw2客户端\C_Event\obj\Debug\C_Event.dll
+E:\香港jw2\gmtools香港jw2客户端\C_Event\obj\Debug\C_Event.pdb
+E:\香港jw2\gmtoolsClientJW2HK\C_Event\bin\Debug\C_Event.dll
+E:\香港jw2\gmtoolsClientJW2HK\C_Event\bin\Debug\C_Event.pdb
+E:\香港jw2\gmtoolsClientJW2HK\C_Event\bin\Debug\C_Controls.dll
+E:\香港jw2\gmtoolsClientJW2HK\C_Event\bin\Debug\C_Global.dll
+E:\香港jw2\gmtoolsClientJW2HK\C_Event\bin\Debug\C_Socket.dll
+E:\香港jw2\gmtoolsClientJW2HK\C_Event\bin\Debug\C_Controls.pdb
+E:\香港jw2\gmtoolsClientJW2HK\C_Event\obj\Debug\ResolveAssemblyReference.cache
+E:\香港jw2\gmtoolsClientJW2HK\C_Event\obj\Debug\C_Event.dll
+E:\香港jw2\gmtoolsClientJW2HK\C_Event\obj\Debug\C_Event.pdb

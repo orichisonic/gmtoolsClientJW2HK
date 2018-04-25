@@ -1,0 +1,144 @@
+C:\gmtools(taiwan)\M_SDO\bin\Debug\M_SDO.dll
+C:\gmtools(taiwan)\M_SDO\bin\Debug\M_SDO.pdb
+C:\gmtools(taiwan)\M_SDO\bin\Debug\C_Controls.dll
+C:\gmtools(taiwan)\M_SDO\bin\Debug\C_Event.dll
+C:\gmtools(taiwan)\M_SDO\bin\Debug\C_Global.dll
+C:\gmtools(taiwan)\M_SDO\bin\Debug\C_Log.dll
+C:\gmtools(taiwan)\M_SDO\bin\Debug\DividerPanel.dll
+C:\gmtools(taiwan)\M_SDO\bin\Debug\Language.dll
+C:\gmtools(taiwan)\M_SDO\bin\Debug\C_Socket.dll
+C:\gmtools(taiwan)\M_SDO\bin\Debug\Language.pdb
+C:\gmtools(taiwan)\M_SDO\bin\Debug\C_Global.pdb
+C:\gmtools(taiwan)\M_SDO\bin\Debug\C_Event.pdb
+C:\gmtools(taiwan)\M_SDO\obj\Debug\ResolveAssemblyReference.cache
+C:\gmtools(taiwan)\M_SDO\obj\Debug\M_SDO.Frm_SDO_Account.resources
+C:\gmtools(taiwan)\M_SDO\obj\Debug\M_SDO.ActiveBlanket.resources
+C:\gmtools(taiwan)\M_SDO\obj\Debug\M_SDO.BlanketSearch.resources
+C:\gmtools(taiwan)\M_SDO\obj\Debug\M_SDO.BlanketToUser.resources
+C:\gmtools(taiwan)\M_SDO\obj\Debug\M_SDO.BrowseDaysLimit.resources
+C:\gmtools(taiwan)\M_SDO\obj\Debug\M_SDO.BrowseMusicName.resources
+C:\gmtools(taiwan)\M_SDO\obj\Debug\M_SDO.Frm_SDO_Close.resources
+C:\gmtools(taiwan)\M_SDO\obj\Debug\M_SDO.FrmQueryBoxFunction.resources
+C:\gmtools(taiwan)\M_SDO\obj\Debug\M_SDO.FrmQueryjifen.resources
+C:\gmtools(taiwan)\M_SDO\obj\Debug\M_SDO.FrmSdoNotice.resources
+C:\gmtools(taiwan)\M_SDO\obj\Debug\M_SDO.FrmStageEdit.resources
+C:\gmtools(taiwan)\M_SDO\obj\Debug\M_SDO.FrmUserFreind.resources
+C:\gmtools(taiwan)\M_SDO\obj\Debug\M_SDO.FrmYYItem.resources
+C:\gmtools(taiwan)\M_SDO\obj\Debug\M_SDO.Frm_SDO_Login.resources
+C:\gmtools(taiwan)\M_SDO\obj\Debug\M_SDO.LogOff.resources
+C:\gmtools(taiwan)\M_SDO\obj\Debug\M_SDO.MatchInfo.resources
+C:\gmtools(taiwan)\M_SDO\obj\Debug\M_SDO.MatchInfoEdit.resources
+C:\gmtools(taiwan)\M_SDO\obj\Debug\M_SDO.Notice.resources
+C:\gmtools(taiwan)\M_SDO\obj\Debug\M_SDO.Frm_SDO_Part.resources
+C:\gmtools(taiwan)\M_SDO\obj\Debug\M_SDO.Frm_SDO_Pwd.resources
+C:\gmtools(taiwan)\M_SDO\obj\Debug\M_SDO.Properties.Resources.resources
+C:\gmtools(taiwan)\M_SDO\obj\Debug\M_SDO.RateEdit.resources
+C:\gmtools(taiwan)\M_SDO\obj\Debug\M_SDO.Frm_SDO_Rechargeable.resources
+C:\gmtools(taiwan)\M_SDO\obj\Debug\M_SDO.Frm_SDO_Resupply.resources
+C:\gmtools(taiwan)\M_SDO\obj\Debug\M_SDO.SearchGateWay.resources
+C:\gmtools(taiwan)\M_SDO\obj\Debug\M_SDO.SenceEdit.resources
+C:\gmtools(taiwan)\M_SDO\obj\Debug\M_SDO.Frm_SDO_Shopping.resources
+C:\gmtools(taiwan)\M_SDO\obj\Debug\M_SDO.Frm_SDO_Status.resources
+C:\gmtools(taiwan)\M_SDO\obj\Debug\M_AU.SyncSdoUserNick.resources
+C:\gmtools(taiwan)\M_SDO\obj\Debug\M_SDO.Frm_SDO_Trade.resources
+C:\gmtools(taiwan)\M_SDO\obj\Debug\M_SDO.Frm_SDO_Update.resources
+C:\gmtools(taiwan)\M_SDO\obj\Debug\M_SDO.csproj.GenerateResource.Cache
+C:\gmtools(taiwan)\M_SDO\obj\Debug\M_SDO.dll
+C:\gmtools(taiwan)\M_SDO\obj\Debug\M_SDO.pdb
+C:\gmtools(taiwan)\M_SDO\bin\Debug\C_Controls.pdb
+C:\gmtools(香港 敢达)\M_SDO\bin\Debug\M_SDO.dll
+C:\gmtools(香港 敢达)\M_SDO\bin\Debug\M_SDO.pdb
+C:\gmtools(香港 敢达)\M_SDO\bin\Debug\C_Controls.dll
+C:\gmtools(香港 敢达)\M_SDO\bin\Debug\C_Event.dll
+C:\gmtools(香港 敢达)\M_SDO\bin\Debug\C_Global.dll
+C:\gmtools(香港 敢达)\M_SDO\bin\Debug\C_Log.dll
+C:\gmtools(香港 敢达)\M_SDO\bin\Debug\DividerPanel.dll
+C:\gmtools(香港 敢达)\M_SDO\bin\Debug\Language.dll
+C:\gmtools(香港 敢达)\M_SDO\bin\Debug\C_Socket.dll
+C:\gmtools(香港 敢达)\M_SDO\bin\Debug\Language.pdb
+C:\gmtools(香港 敢达)\M_SDO\bin\Debug\C_Controls.pdb
+C:\gmtools(香港 敢达)\M_SDO\bin\Debug\C_Global.pdb
+C:\gmtools(香港 敢达)\M_SDO\bin\Debug\C_Event.pdb
+C:\gmtools(香港 敢达)\M_SDO\obj\Debug\ResolveAssemblyReference.cache
+C:\gmtools(香港 敢达)\M_SDO\obj\Debug\M_SDO.Frm_SDO_Account.resources
+C:\gmtools(香港 敢达)\M_SDO\obj\Debug\M_SDO.ActiveBlanket.resources
+C:\gmtools(香港 敢达)\M_SDO\obj\Debug\M_SDO.BlanketSearch.resources
+C:\gmtools(香港 敢达)\M_SDO\obj\Debug\M_SDO.BlanketToUser.resources
+C:\gmtools(香港 敢达)\M_SDO\obj\Debug\M_SDO.BrowseDaysLimit.resources
+C:\gmtools(香港 敢达)\M_SDO\obj\Debug\M_SDO.BrowseMusicName.resources
+C:\gmtools(香港 敢达)\M_SDO\obj\Debug\M_SDO.Frm_SDO_Close.resources
+C:\gmtools(香港 敢达)\M_SDO\obj\Debug\M_SDO.FrmQueryBoxFunction.resources
+C:\gmtools(香港 敢达)\M_SDO\obj\Debug\M_SDO.FrmQueryjifen.resources
+C:\gmtools(香港 敢达)\M_SDO\obj\Debug\M_SDO.FrmSdoNotice.resources
+C:\gmtools(香港 敢达)\M_SDO\obj\Debug\M_SDO.FrmStageEdit.resources
+C:\gmtools(香港 敢达)\M_SDO\obj\Debug\M_SDO.FrmUserFreind.resources
+C:\gmtools(香港 敢达)\M_SDO\obj\Debug\M_SDO.FrmYYItem.resources
+C:\gmtools(香港 敢达)\M_SDO\obj\Debug\M_SDO.Frm_SDO_Login.resources
+C:\gmtools(香港 敢达)\M_SDO\obj\Debug\M_SDO.LogOff.resources
+C:\gmtools(香港 敢达)\M_SDO\obj\Debug\M_SDO.MatchInfo.resources
+C:\gmtools(香港 敢达)\M_SDO\obj\Debug\M_SDO.MatchInfoEdit.resources
+C:\gmtools(香港 敢达)\M_SDO\obj\Debug\M_SDO.Notice.resources
+C:\gmtools(香港 敢达)\M_SDO\obj\Debug\M_SDO.Frm_SDO_Part.resources
+C:\gmtools(香港 敢达)\M_SDO\obj\Debug\M_SDO.Frm_SDO_Pwd.resources
+C:\gmtools(香港 敢达)\M_SDO\obj\Debug\M_SDO.Properties.Resources.resources
+C:\gmtools(香港 敢达)\M_SDO\obj\Debug\M_SDO.RateEdit.resources
+C:\gmtools(香港 敢达)\M_SDO\obj\Debug\M_SDO.Frm_SDO_Rechargeable.resources
+C:\gmtools(香港 敢达)\M_SDO\obj\Debug\M_SDO.Frm_SDO_Resupply.resources
+C:\gmtools(香港 敢达)\M_SDO\obj\Debug\M_SDO.SearchGateWay.resources
+C:\gmtools(香港 敢达)\M_SDO\obj\Debug\M_SDO.SenceEdit.resources
+C:\gmtools(香港 敢达)\M_SDO\obj\Debug\M_SDO.Frm_SDO_Shopping.resources
+C:\gmtools(香港 敢达)\M_SDO\obj\Debug\M_SDO.Frm_SDO_Status.resources
+C:\gmtools(香港 敢达)\M_SDO\obj\Debug\M_AU.SyncSdoUserNick.resources
+C:\gmtools(香港 敢达)\M_SDO\obj\Debug\M_SDO.Frm_SDO_Trade.resources
+C:\gmtools(香港 敢达)\M_SDO\obj\Debug\M_SDO.Frm_SDO_Update.resources
+C:\gmtools(香港 敢达)\M_SDO\obj\Debug\M_SDO.csproj.GenerateResource.Cache
+C:\gmtools(香港 敢达)\M_SDO\obj\Debug\M_SDO.dll
+C:\gmtools(香港 敢达)\M_SDO\obj\Debug\M_SDO.pdb
+C:\gmtools(hongkongSD)\M_SDO\bin\Debug\M_SDO.dll
+C:\gmtools(hongkongSD)\M_SDO\bin\Debug\M_SDO.pdb
+C:\gmtools(hongkongSD)\M_SDO\bin\Debug\C_Controls.dll
+C:\gmtools(hongkongSD)\M_SDO\bin\Debug\C_Event.dll
+C:\gmtools(hongkongSD)\M_SDO\bin\Debug\C_Global.dll
+C:\gmtools(hongkongSD)\M_SDO\bin\Debug\C_Log.dll
+C:\gmtools(hongkongSD)\M_SDO\bin\Debug\DividerPanel.dll
+C:\gmtools(hongkongSD)\M_SDO\bin\Debug\Language.dll
+C:\gmtools(hongkongSD)\M_SDO\bin\Debug\C_Socket.dll
+C:\gmtools(hongkongSD)\M_SDO\bin\Debug\Language.pdb
+C:\gmtools(hongkongSD)\M_SDO\bin\Debug\C_Controls.pdb
+C:\gmtools(hongkongSD)\M_SDO\bin\Debug\C_Global.pdb
+C:\gmtools(hongkongSD)\M_SDO\bin\Debug\C_Event.pdb
+C:\gmtools(hongkongSD)\M_SDO\obj\Debug\ResolveAssemblyReference.cache
+C:\gmtools(hongkongSD)\M_SDO\obj\Debug\M_SDO.Frm_SDO_Account.resources
+C:\gmtools(hongkongSD)\M_SDO\obj\Debug\M_SDO.ActiveBlanket.resources
+C:\gmtools(hongkongSD)\M_SDO\obj\Debug\M_SDO.BlanketSearch.resources
+C:\gmtools(hongkongSD)\M_SDO\obj\Debug\M_SDO.BlanketToUser.resources
+C:\gmtools(hongkongSD)\M_SDO\obj\Debug\M_SDO.BrowseDaysLimit.resources
+C:\gmtools(hongkongSD)\M_SDO\obj\Debug\M_SDO.BrowseMusicName.resources
+C:\gmtools(hongkongSD)\M_SDO\obj\Debug\M_SDO.Frm_SDO_Close.resources
+C:\gmtools(hongkongSD)\M_SDO\obj\Debug\M_SDO.FrmQueryBoxFunction.resources
+C:\gmtools(hongkongSD)\M_SDO\obj\Debug\M_SDO.FrmQueryjifen.resources
+C:\gmtools(hongkongSD)\M_SDO\obj\Debug\M_SDO.FrmSdoNotice.resources
+C:\gmtools(hongkongSD)\M_SDO\obj\Debug\M_SDO.FrmStageEdit.resources
+C:\gmtools(hongkongSD)\M_SDO\obj\Debug\M_SDO.FrmUserFreind.resources
+C:\gmtools(hongkongSD)\M_SDO\obj\Debug\M_SDO.FrmYYItem.resources
+C:\gmtools(hongkongSD)\M_SDO\obj\Debug\M_SDO.Frm_SDO_Login.resources
+C:\gmtools(hongkongSD)\M_SDO\obj\Debug\M_SDO.LogOff.resources
+C:\gmtools(hongkongSD)\M_SDO\obj\Debug\M_SDO.MatchInfo.resources
+C:\gmtools(hongkongSD)\M_SDO\obj\Debug\M_SDO.MatchInfoEdit.resources
+C:\gmtools(hongkongSD)\M_SDO\obj\Debug\M_SDO.Notice.resources
+C:\gmtools(hongkongSD)\M_SDO\obj\Debug\M_SDO.Frm_SDO_Part.resources
+C:\gmtools(hongkongSD)\M_SDO\obj\Debug\M_SDO.Frm_SDO_Pwd.resources
+C:\gmtools(hongkongSD)\M_SDO\obj\Debug\M_SDO.Properties.Resources.resources
+C:\gmtools(hongkongSD)\M_SDO\obj\Debug\M_SDO.RateEdit.resources
+C:\gmtools(hongkongSD)\M_SDO\obj\Debug\M_SDO.Frm_SDO_Rechargeable.resources
+C:\gmtools(hongkongSD)\M_SDO\obj\Debug\M_SDO.Frm_SDO_Resupply.resources
+C:\gmtools(hongkongSD)\M_SDO\obj\Debug\M_SDO.SearchGateWay.resources
+C:\gmtools(hongkongSD)\M_SDO\obj\Debug\M_SDO.SenceEdit.resources
+C:\gmtools(hongkongSD)\M_SDO\obj\Debug\M_SDO.Frm_SDO_Shopping.resources
+C:\gmtools(hongkongSD)\M_SDO\obj\Debug\M_SDO.Frm_SDO_Status.resources
+C:\gmtools(hongkongSD)\M_SDO\obj\Debug\M_AU.SyncSdoUserNick.resources
+C:\gmtools(hongkongSD)\M_SDO\obj\Debug\M_SDO.Frm_SDO_Trade.resources
+C:\gmtools(hongkongSD)\M_SDO\obj\Debug\M_SDO.Frm_SDO_Update.resources
+C:\gmtools(hongkongSD)\M_SDO\obj\Debug\M_SDO.csproj.GenerateResource.Cache
+C:\gmtools(hongkongSD)\M_SDO\obj\Debug\M_SDO.dll
+C:\gmtools(hongkongSD)\M_SDO\obj\Debug\M_SDO.pdb

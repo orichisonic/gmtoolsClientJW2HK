@@ -1,0 +1,10 @@
+..\execute\GMCLIENT.exe
+..\execute\GMCLIENT.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GMCLIENT.Login.resources
+obj\Debug\GMCLIENT.Main.resources
+obj\Debug\GMCLIENT.Properties.Resources.resources
+obj\Debug\GMCLIENT.UpdateFrm.resources
+obj\Debug\GMCLIENT.csproj.GenerateResource.Cache
+obj\Debug\GMCLIENT.exe
+obj\Debug\GMCLIENT.pdb

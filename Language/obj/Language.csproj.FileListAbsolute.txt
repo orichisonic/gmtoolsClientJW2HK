@@ -1,0 +1,66 @@
+C:\gmtools(taiwan)\Language\bin\Debug\Language.dll
+C:\gmtools(taiwan)\Language\bin\Debug\Language.pdb
+C:\gmtools(taiwan)\Language\bin\Debug\C_Global.dll
+C:\gmtools(taiwan)\Language\obj\Debug\ResolveAssemblyReference.cache
+C:\gmtools(taiwan)\Language\obj\Debug\Language.dll
+C:\gmtools(taiwan)\Language\obj\Debug\Language.pdb
+C:\gmtools(香港 敢达)\Language\bin\Debug\Language.dll
+C:\gmtools(香港 敢达)\Language\bin\Debug\Language.pdb
+C:\gmtools(香港 敢达)\Language\bin\Debug\C_Global.dll
+C:\gmtools(香港 敢达)\Language\obj\Debug\ResolveAssemblyReference.cache
+C:\gmtools(香港 敢达)\Language\obj\Debug\Language.dll
+C:\gmtools(香港 敢达)\Language\obj\Debug\Language.pdb
+C:\gmtools(hongkongSD)\Language\bin\Debug\Language.dll
+C:\gmtools(hongkongSD)\Language\bin\Debug\Language.pdb
+C:\gmtools(hongkongSD)\Language\bin\Debug\C_Global.dll
+C:\gmtools(hongkongSD)\Language\obj\Debug\ResolveAssemblyReference.cache
+C:\gmtools(hongkongSD)\Language\obj\Debug\Language.dll
+C:\gmtools(hongkongSD)\Language\obj\Debug\Language.pdb
+D:\gmtools client(hongkongSD)\Language\bin\Debug\Language.dll
+D:\gmtools client(hongkongSD)\Language\bin\Debug\Language.pdb
+D:\gmtools client(hongkongSD)\Language\bin\Debug\C_Global.dll
+D:\gmtools client(hongkongSD)\Language\obj\Debug\ResolveAssemblyReference.cache
+D:\gmtools client(hongkongSD)\Language\obj\Debug\Language.dll
+D:\gmtools client(hongkongSD)\Language\obj\Debug\Language.pdb
+D:\gmtoolsclient\Language\bin\Debug\Language.dll
+D:\gmtoolsclient\Language\bin\Debug\Language.pdb
+D:\gmtoolsclient\Language\bin\Debug\C_Global.dll
+D:\gmtoolsclient\Language\obj\Debug\ResolveAssemblyReference.cache
+D:\gmtoolsclient\Language\obj\Debug\Language.dll
+D:\gmtoolsclient\Language\obj\Debug\Language.pdb
+D:\gmtools客户端(香港SD)\Language\bin\Debug\Language.dll
+D:\gmtools客户端(香港SD)\Language\bin\Debug\Language.pdb
+D:\gmtools客户端(香港SD)\Language\bin\Debug\C_Global.dll
+D:\gmtools客户端(香港SD)\Language\obj\Debug\ResolveAssemblyReference.cache
+D:\gmtools客户端(香港SD)\Language\obj\Debug\Language.dll
+D:\gmtools客户端(香港SD)\Language\obj\Debug\Language.pdb
+D:\海外GMTOOLS\gmtools客户端(香港SD)\Language\bin\Debug\Language.dll
+D:\海外GMTOOLS\gmtools客户端(香港SD)\Language\bin\Debug\Language.pdb
+D:\海外GMTOOLS\gmtools客户端(香港SD)\Language\bin\Debug\C_Global.dll
+D:\海外GMTOOLS\gmtools客户端(香港SD)\Language\obj\Debug\ResolveAssemblyReference.cache
+D:\海外GMTOOLS\gmtools客户端(香港SD)\Language\obj\Debug\Language.dll
+D:\海外GMTOOLS\gmtools客户端(香港SD)\Language\obj\Debug\Language.pdb
+D:\gmtoolsSD\Language\bin\Debug\Language.dll
+D:\gmtoolsSD\Language\bin\Debug\Language.pdb
+D:\gmtoolsSD\Language\bin\Debug\C_Global.dll
+D:\gmtoolsSD\Language\obj\Debug\ResolveAssemblyReference.cache
+D:\gmtoolsSD\Language\obj\Debug\Language.dll
+D:\gmtoolsSD\Language\obj\Debug\Language.pdb
+D:\海外GMTOOLS\gmtoolsSD客户端\Language\bin\Debug\Language.dll
+D:\海外GMTOOLS\gmtoolsSD客户端\Language\bin\Debug\Language.pdb
+D:\海外GMTOOLS\gmtoolsSD客户端\Language\bin\Debug\C_Global.dll
+D:\海外GMTOOLS\gmtoolsSD客户端\Language\obj\Debug\ResolveAssemblyReference.cache
+D:\海外GMTOOLS\gmtoolsSD客户端\Language\obj\Debug\Language.dll
+D:\海外GMTOOLS\gmtoolsSD客户端\Language\obj\Debug\Language.pdb
+E:\香港jw2\gmtools香港jw2客户端\Language\bin\Debug\Language.dll
+E:\香港jw2\gmtools香港jw2客户端\Language\bin\Debug\Language.pdb
+E:\香港jw2\gmtools香港jw2客户端\Language\bin\Debug\C_Global.dll
+E:\香港jw2\gmtools香港jw2客户端\Language\obj\Debug\ResolveAssemblyReference.cache
+E:\香港jw2\gmtools香港jw2客户端\Language\obj\Debug\Language.dll
+E:\香港jw2\gmtools香港jw2客户端\Language\obj\Debug\Language.pdb
+E:\香港jw2\gmtoolsClientJW2HK\Language\bin\Debug\Language.dll
+E:\香港jw2\gmtoolsClientJW2HK\Language\bin\Debug\Language.pdb
+E:\香港jw2\gmtoolsClientJW2HK\Language\bin\Debug\C_Global.dll
+E:\香港jw2\gmtoolsClientJW2HK\Language\obj\Debug\ResolveAssemblyReference.cache
+E:\香港jw2\gmtoolsClientJW2HK\Language\obj\Debug\Language.dll
+E:\香港jw2\gmtoolsClientJW2HK\Language\obj\Debug\Language.pdb

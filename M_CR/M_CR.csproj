@@ -1,0 +1,190 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F04F6F14-A975-4A0D-ADA3-6700FA105DDF}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>M_CR</RootNamespace>
+    <AssemblyName>M_CR</AssemblyName>
+    <StartupObject>
+    </StartupObject>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="C_Event, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\execute\C_Event.dll</HintPath>
+    </Reference>
+    <Reference Include="C_Global, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\execute\C_Global.dll</HintPath>
+    </Reference>
+    <Reference Include="C_Socket, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\execute\C_Socket.dll</HintPath>
+    </Reference>
+    <Reference Include="DividerPanel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=09c394fd536ab886">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\execute\DividerPanel.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccountBehavior.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AccountBehavior.Designer.cs">
+      <DependentUpon>AccountBehavior.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ActivationSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ActivationSearch.Designer.cs">
+      <DependentUpon>ActivationSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BoardFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BoardFrm.Designer.cs">
+      <DependentUpon>BoardFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPlayerBan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPlayerBan.Designer.cs">
+      <DependentUpon>FrmPlayerBan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPlayerTrade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPlayerTrade.Designer.cs">
+      <DependentUpon>FrmPlayerTrade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPlayerConsume.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPlayerConsume.Designer.cs">
+      <DependentUpon>FrmPlayerConsume.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPlayerLoginTime.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPlayerLoginTime.Designer.cs">
+      <DependentUpon>FrmPlayerLoginTime.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModiPwd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModiPwd.Designer.cs">
+      <DependentUpon>ModiPwd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Operation.cs" />
+    <Compile Include="PartBehavior.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PartBehavior.Designer.cs">
+      <DependentUpon>PartBehavior.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AccountBehavior.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AccountBehavior.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ActivationSearch.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ActivationSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BoardFrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BoardFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPlayerBan.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmPlayerBan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPlayerTrade.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmPlayerTrade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPlayerConsume.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmPlayerConsume.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPlayerLoginTime.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FrmPlayerLoginTime.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModiPwd.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ModiPwd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PartBehavior.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PartBehavior.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Status.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <PropertyGroup>
+    <PostBuildEvent>copy $(TargetPath) $(SolutionDir)execute\Modules</PostBuildEvent>
+  </PropertyGroup>
+</Project>

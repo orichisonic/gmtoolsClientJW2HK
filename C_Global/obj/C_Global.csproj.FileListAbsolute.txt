@@ -1,0 +1,55 @@
+C:\gmtools(taiwan)\C_Global\bin\Debug\C_Global.dll
+C:\gmtools(taiwan)\C_Global\bin\Debug\C_Global.pdb
+C:\gmtools(taiwan)\C_Global\obj\Debug\ResolveAssemblyReference.cache
+C:\gmtools(taiwan)\C_Global\obj\Debug\C_Global.dll
+C:\gmtools(taiwan)\C_Global\obj\Debug\C_Global.pdb
+C:\gmtools(香港 敢达)\C_Global\bin\Debug\C_Global.dll
+C:\gmtools(香港 敢达)\C_Global\bin\Debug\C_Global.pdb
+C:\gmtools(香港 敢达)\C_Global\obj\Debug\ResolveAssemblyReference.cache
+C:\gmtools(香港 敢达)\C_Global\obj\Debug\C_Global.dll
+C:\gmtools(香港 敢达)\C_Global\obj\Debug\C_Global.pdb
+C:\gmtools(hongkongSD)\C_Global\bin\Debug\C_Global.dll
+C:\gmtools(hongkongSD)\C_Global\bin\Debug\C_Global.pdb
+C:\gmtools(hongkongSD)\C_Global\obj\Debug\ResolveAssemblyReference.cache
+C:\gmtools(hongkongSD)\C_Global\obj\Debug\C_Global.dll
+C:\gmtools(hongkongSD)\C_Global\obj\Debug\C_Global.pdb
+D:\gmtools client(hongkongSD)\C_Global\bin\Debug\C_Global.dll
+D:\gmtools client(hongkongSD)\C_Global\bin\Debug\C_Global.pdb
+D:\gmtools client(hongkongSD)\C_Global\obj\Debug\ResolveAssemblyReference.cache
+D:\gmtools client(hongkongSD)\C_Global\obj\Debug\C_Global.dll
+D:\gmtools client(hongkongSD)\C_Global\obj\Debug\C_Global.pdb
+D:\gmtoolsclient\C_Global\bin\Debug\C_Global.dll
+D:\gmtoolsclient\C_Global\bin\Debug\C_Global.pdb
+D:\gmtoolsclient\C_Global\obj\Debug\ResolveAssemblyReference.cache
+D:\gmtoolsclient\C_Global\obj\Debug\C_Global.dll
+D:\gmtoolsclient\C_Global\obj\Debug\C_Global.pdb
+D:\gmtools客户端(香港SD)\C_Global\bin\Debug\C_Global.dll
+D:\gmtools客户端(香港SD)\C_Global\bin\Debug\C_Global.pdb
+D:\gmtools客户端(香港SD)\C_Global\obj\Debug\ResolveAssemblyReference.cache
+D:\gmtools客户端(香港SD)\C_Global\obj\Debug\C_Global.dll
+D:\gmtools客户端(香港SD)\C_Global\obj\Debug\C_Global.pdb
+D:\海外GMTOOLS\gmtools客户端(香港SD)\C_Global\bin\Debug\C_Global.dll
+D:\海外GMTOOLS\gmtools客户端(香港SD)\C_Global\bin\Debug\C_Global.pdb
+D:\海外GMTOOLS\gmtools客户端(香港SD)\C_Global\obj\Debug\ResolveAssemblyReference.cache
+D:\海外GMTOOLS\gmtools客户端(香港SD)\C_Global\obj\Debug\C_Global.dll
+D:\海外GMTOOLS\gmtools客户端(香港SD)\C_Global\obj\Debug\C_Global.pdb
+D:\gmtoolsSD\C_Global\bin\Debug\C_Global.dll
+D:\gmtoolsSD\C_Global\bin\Debug\C_Global.pdb
+D:\gmtoolsSD\C_Global\obj\Debug\ResolveAssemblyReference.cache
+D:\gmtoolsSD\C_Global\obj\Debug\C_Global.dll
+D:\gmtoolsSD\C_Global\obj\Debug\C_Global.pdb
+D:\海外GMTOOLS\gmtoolsSD客户端\C_Global\bin\Debug\C_Global.dll
+D:\海外GMTOOLS\gmtoolsSD客户端\C_Global\bin\Debug\C_Global.pdb
+D:\海外GMTOOLS\gmtoolsSD客户端\C_Global\obj\Debug\ResolveAssemblyReference.cache
+D:\海外GMTOOLS\gmtoolsSD客户端\C_Global\obj\Debug\C_Global.dll
+D:\海外GMTOOLS\gmtoolsSD客户端\C_Global\obj\Debug\C_Global.pdb
+E:\香港jw2\gmtools香港jw2客户端\C_Global\bin\Debug\C_Global.dll
+E:\香港jw2\gmtools香港jw2客户端\C_Global\bin\Debug\C_Global.pdb
+E:\香港jw2\gmtools香港jw2客户端\C_Global\obj\Debug\ResolveAssemblyReference.cache
+E:\香港jw2\gmtools香港jw2客户端\C_Global\obj\Debug\C_Global.dll
+E:\香港jw2\gmtools香港jw2客户端\C_Global\obj\Debug\C_Global.pdb
+E:\香港jw2\gmtoolsClientJW2HK\C_Global\bin\Debug\C_Global.dll
+E:\香港jw2\gmtoolsClientJW2HK\C_Global\bin\Debug\C_Global.pdb
+E:\香港jw2\gmtoolsClientJW2HK\C_Global\obj\Debug\ResolveAssemblyReference.cache
+E:\香港jw2\gmtoolsClientJW2HK\C_Global\obj\Debug\C_Global.dll
+E:\香港jw2\gmtoolsClientJW2HK\C_Global\obj\Debug\C_Global.pdb

@@ -1,0 +1,212 @@
+D:\123\M_RC\bin\Debug\M_RC.dll
+D:\123\M_RC\bin\Debug\M_RC.pdb
+D:\123\M_RC\bin\Debug\C_Controls.dll
+D:\123\M_RC\bin\Debug\C_Event.dll
+D:\123\M_RC\bin\Debug\C_Global.dll
+D:\123\M_RC\bin\Debug\C_Log.dll
+D:\123\M_RC\bin\Debug\C_Socket.dll
+D:\123\M_RC\bin\Debug\DividerPanel.dll
+D:\123\M_RC\bin\Debug\ImageTextControl.dll
+D:\123\M_RC\bin\Debug\Language.dll
+D:\123\M_RC\bin\Debug\M_AU.dll
+D:\123\M_RC\bin\Debug\ImageTextControl.pdb
+D:\123\M_RC\bin\Debug\C_Controls.pdb
+D:\123\M_RC\bin\Debug\M_AU.pdb
+D:\123\M_RC\obj\Debug\ResolveAssemblyReference.cache
+D:\123\M_RC\obj\Debug\M_RC.BrowseMusicName.resources
+D:\123\M_RC\obj\Debug\M_RC.BrowseMusicName1.resources
+D:\123\M_RC\obj\Debug\M_RC.FrmCSActiveCardQuery.resources
+D:\123\M_RC\obj\Debug\M_RC.FrmAddMoney.resources
+D:\123\M_RC\obj\Debug\M_RC.FrmBingoCard.resources
+D:\123\M_RC\obj\Debug\M_RC.FrmConnectionState.resources
+D:\123\M_RC\obj\Debug\M_RC.FrmCoupon.resources
+D:\123\M_RC\obj\Debug\M_RC.FrmGameGmQuery.resources
+D:\123\M_RC\obj\Debug\M_RC.FrmPlayerPosition.resources
+D:\123\M_RC\obj\Debug\M_RC.FrmPlayerTradeLog.resources
+D:\123\M_RC\obj\Debug\M_RC.FrmGuildQuery.resources
+D:\123\M_RC\obj\Debug\M_RC.FrmMissionLog.resources
+D:\123\M_RC\obj\Debug\M_RC.FrmMoneyLog.resources
+D:\123\M_RC\obj\Debug\M_RC.FrmQueryMailLog.resources
+D:\123\M_RC\obj\Debug\M_RC.FrmQueryMCashLog.resources
+D:\123\M_RC\obj\Debug\M_RC.FrmQueryPlayerCar.resources
+D:\123\M_RC\obj\Debug\M_RC.FrmQueryPlayerChinfo.resources
+D:\123\M_RC\obj\Debug\M_RC.FrmQueryPlayerDeal.resources
+D:\123\M_RC\obj\Debug\M_RC.FrmQueryPlayerFriend.resources
+D:\123\M_RC\obj\Debug\M_RC.FrmPlayGiftInfo.resources
+D:\123\M_RC\obj\Debug\M_RC.FrmQueryPlayerMlog.resources
+D:\123\M_RC\obj\Debug\M_RC.FrmQueryPlayerQuestLog.resources
+D:\123\M_RC\obj\Debug\M_RC.FrmQueryPlayerSkill.resources
+D:\123\M_RC\obj\Debug\M_RC.FrmQueryPlayerState.resources
+D:\123\M_RC\obj\Debug\M_RC.FrmQueryRaceState.resources
+D:\123\M_RC\obj\Debug\M_RC.FrmRaceLog.resources
+D:\123\M_RC\obj\Debug\M_RC.FrmRCaccontBan.resources
+D:\123\M_RC\obj\Debug\M_RC.FrmRcActiveQuery.resources
+D:\123\M_RC\obj\Debug\M_RC.FrmRcCodeQuery.resources
+D:\123\M_RC\obj\Debug\M_RC.FrmQueryPlayerID.resources
+D:\123\M_RC\obj\Debug\M_RC.FrmRCCreateaccont.resources
+D:\123\M_RC\obj\Debug\M_RC.FrmRCGmaccont.resources
+D:\123\M_RC\obj\Debug\M_RC.FrmRCNotice.resources
+D:\123\M_RC\obj\Debug\M_RC.FrmWarePassword.resources
+D:\123\M_RC\obj\Debug\M_RC.Properties.Resources.resources
+D:\123\M_RC\obj\Debug\M_RC.csproj.GenerateResource.Cache
+D:\123\M_RC\obj\Debug\M_RC.dll
+D:\123\M_RC\obj\Debug\M_RC.pdb
+C:\gmtools(taiwan)\M_RC\bin\Debug\M_RC.dll
+C:\gmtools(taiwan)\M_RC\bin\Debug\M_RC.pdb
+C:\gmtools(taiwan)\M_RC\bin\Debug\C_Controls.dll
+C:\gmtools(taiwan)\M_RC\bin\Debug\C_Event.dll
+C:\gmtools(taiwan)\M_RC\bin\Debug\C_Global.dll
+C:\gmtools(taiwan)\M_RC\bin\Debug\C_Log.dll
+C:\gmtools(taiwan)\M_RC\bin\Debug\C_Socket.dll
+C:\gmtools(taiwan)\M_RC\bin\Debug\DividerPanel.dll
+C:\gmtools(taiwan)\M_RC\bin\Debug\ImageTextControl.dll
+C:\gmtools(taiwan)\M_RC\bin\Debug\Language.dll
+C:\gmtools(taiwan)\M_RC\bin\Debug\M_AU.dll
+C:\gmtools(taiwan)\M_RC\bin\Debug\M_AU.pdb
+C:\gmtools(taiwan)\M_RC\bin\Debug\C_Controls.pdb
+C:\gmtools(taiwan)\M_RC\bin\Debug\ImageTextControl.pdb
+C:\gmtools(taiwan)\M_RC\obj\Debug\ResolveAssemblyReference.cache
+C:\gmtools(taiwan)\M_RC\obj\Debug\M_RC.BrowseMusicName.resources
+C:\gmtools(taiwan)\M_RC\obj\Debug\M_RC.BrowseMusicName1.resources
+C:\gmtools(taiwan)\M_RC\obj\Debug\M_RC.FrmCSActiveCardQuery.resources
+C:\gmtools(taiwan)\M_RC\obj\Debug\M_RC.FrmAddMoney.resources
+C:\gmtools(taiwan)\M_RC\obj\Debug\M_RC.FrmBingoCard.resources
+C:\gmtools(taiwan)\M_RC\obj\Debug\M_RC.FrmConnectionState.resources
+C:\gmtools(taiwan)\M_RC\obj\Debug\M_RC.FrmCoupon.resources
+C:\gmtools(taiwan)\M_RC\obj\Debug\M_RC.FrmGameGmQuery.resources
+C:\gmtools(taiwan)\M_RC\obj\Debug\M_RC.FrmPlayerPosition.resources
+C:\gmtools(taiwan)\M_RC\obj\Debug\M_RC.FrmPlayerTradeLog.resources
+C:\gmtools(taiwan)\M_RC\obj\Debug\M_RC.FrmGuildQuery.resources
+C:\gmtools(taiwan)\M_RC\obj\Debug\M_RC.FrmMissionLog.resources
+C:\gmtools(taiwan)\M_RC\obj\Debug\M_RC.FrmMoneyLog.resources
+C:\gmtools(taiwan)\M_RC\obj\Debug\M_RC.FrmQueryMailLog.resources
+C:\gmtools(taiwan)\M_RC\obj\Debug\M_RC.FrmQueryMCashLog.resources
+C:\gmtools(taiwan)\M_RC\obj\Debug\M_RC.FrmQueryPlayerCar.resources
+C:\gmtools(taiwan)\M_RC\obj\Debug\M_RC.FrmQueryPlayerChinfo.resources
+C:\gmtools(taiwan)\M_RC\obj\Debug\M_RC.FrmQueryPlayerDeal.resources
+C:\gmtools(taiwan)\M_RC\obj\Debug\M_RC.FrmQueryPlayerFriend.resources
+C:\gmtools(taiwan)\M_RC\obj\Debug\M_RC.FrmPlayGiftInfo.resources
+C:\gmtools(taiwan)\M_RC\obj\Debug\M_RC.FrmQueryPlayerMlog.resources
+C:\gmtools(taiwan)\M_RC\obj\Debug\M_RC.FrmQueryPlayerQuestLog.resources
+C:\gmtools(taiwan)\M_RC\obj\Debug\M_RC.FrmQueryPlayerSkill.resources
+C:\gmtools(taiwan)\M_RC\obj\Debug\M_RC.FrmQueryPlayerState.resources
+C:\gmtools(taiwan)\M_RC\obj\Debug\M_RC.FrmQueryRaceState.resources
+C:\gmtools(taiwan)\M_RC\obj\Debug\M_RC.FrmRaceLog.resources
+C:\gmtools(taiwan)\M_RC\obj\Debug\M_RC.FrmRCaccontBan.resources
+C:\gmtools(taiwan)\M_RC\obj\Debug\M_RC.FrmRcActiveQuery.resources
+C:\gmtools(taiwan)\M_RC\obj\Debug\M_RC.FrmRcCodeQuery.resources
+C:\gmtools(taiwan)\M_RC\obj\Debug\M_RC.FrmQueryPlayerID.resources
+C:\gmtools(taiwan)\M_RC\obj\Debug\M_RC.FrmRCCreateaccont.resources
+C:\gmtools(taiwan)\M_RC\obj\Debug\M_RC.FrmRCGmaccont.resources
+C:\gmtools(taiwan)\M_RC\obj\Debug\M_RC.FrmRCNotice.resources
+C:\gmtools(taiwan)\M_RC\obj\Debug\M_RC.FrmWarePassword.resources
+C:\gmtools(taiwan)\M_RC\obj\Debug\M_RC.Properties.Resources.resources
+C:\gmtools(taiwan)\M_RC\obj\Debug\M_RC.csproj.GenerateResource.Cache
+C:\gmtools(taiwan)\M_RC\obj\Debug\M_RC.dll
+C:\gmtools(taiwan)\M_RC\obj\Debug\M_RC.pdb
+C:\gmtools(香港 敢达)\M_RC\bin\Debug\M_RC.dll
+C:\gmtools(香港 敢达)\M_RC\bin\Debug\M_RC.pdb
+C:\gmtools(香港 敢达)\M_RC\bin\Debug\C_Controls.dll
+C:\gmtools(香港 敢达)\M_RC\bin\Debug\C_Event.dll
+C:\gmtools(香港 敢达)\M_RC\bin\Debug\C_Global.dll
+C:\gmtools(香港 敢达)\M_RC\bin\Debug\C_Log.dll
+C:\gmtools(香港 敢达)\M_RC\bin\Debug\C_Socket.dll
+C:\gmtools(香港 敢达)\M_RC\bin\Debug\DividerPanel.dll
+C:\gmtools(香港 敢达)\M_RC\bin\Debug\ImageTextControl.dll
+C:\gmtools(香港 敢达)\M_RC\bin\Debug\Language.dll
+C:\gmtools(香港 敢达)\M_RC\bin\Debug\M_AU.dll
+C:\gmtools(香港 敢达)\M_RC\bin\Debug\M_AU.pdb
+C:\gmtools(香港 敢达)\M_RC\bin\Debug\C_Controls.pdb
+C:\gmtools(香港 敢达)\M_RC\bin\Debug\ImageTextControl.pdb
+C:\gmtools(香港 敢达)\M_RC\obj\Debug\ResolveAssemblyReference.cache
+C:\gmtools(香港 敢达)\M_RC\obj\Debug\M_RC.BrowseMusicName.resources
+C:\gmtools(香港 敢达)\M_RC\obj\Debug\M_RC.BrowseMusicName1.resources
+C:\gmtools(香港 敢达)\M_RC\obj\Debug\M_RC.FrmCSActiveCardQuery.resources
+C:\gmtools(香港 敢达)\M_RC\obj\Debug\M_RC.FrmAddMoney.resources
+C:\gmtools(香港 敢达)\M_RC\obj\Debug\M_RC.FrmBingoCard.resources
+C:\gmtools(香港 敢达)\M_RC\obj\Debug\M_RC.FrmConnectionState.resources
+C:\gmtools(香港 敢达)\M_RC\obj\Debug\M_RC.FrmCoupon.resources
+C:\gmtools(香港 敢达)\M_RC\obj\Debug\M_RC.FrmGameGmQuery.resources
+C:\gmtools(香港 敢达)\M_RC\obj\Debug\M_RC.FrmPlayerPosition.resources
+C:\gmtools(香港 敢达)\M_RC\obj\Debug\M_RC.FrmPlayerTradeLog.resources
+C:\gmtools(香港 敢达)\M_RC\obj\Debug\M_RC.FrmGuildQuery.resources
+C:\gmtools(香港 敢达)\M_RC\obj\Debug\M_RC.FrmMissionLog.resources
+C:\gmtools(香港 敢达)\M_RC\obj\Debug\M_RC.FrmMoneyLog.resources
+C:\gmtools(香港 敢达)\M_RC\obj\Debug\M_RC.FrmQueryMailLog.resources
+C:\gmtools(香港 敢达)\M_RC\obj\Debug\M_RC.FrmQueryMCashLog.resources
+C:\gmtools(香港 敢达)\M_RC\obj\Debug\M_RC.FrmQueryPlayerCar.resources
+C:\gmtools(香港 敢达)\M_RC\obj\Debug\M_RC.FrmQueryPlayerChinfo.resources
+C:\gmtools(香港 敢达)\M_RC\obj\Debug\M_RC.FrmQueryPlayerDeal.resources
+C:\gmtools(香港 敢达)\M_RC\obj\Debug\M_RC.FrmQueryPlayerFriend.resources
+C:\gmtools(香港 敢达)\M_RC\obj\Debug\M_RC.FrmPlayGiftInfo.resources
+C:\gmtools(香港 敢达)\M_RC\obj\Debug\M_RC.FrmQueryPlayerMlog.resources
+C:\gmtools(香港 敢达)\M_RC\obj\Debug\M_RC.FrmQueryPlayerQuestLog.resources
+C:\gmtools(香港 敢达)\M_RC\obj\Debug\M_RC.FrmQueryPlayerSkill.resources
+C:\gmtools(香港 敢达)\M_RC\obj\Debug\M_RC.FrmQueryPlayerState.resources
+C:\gmtools(香港 敢达)\M_RC\obj\Debug\M_RC.FrmQueryRaceState.resources
+C:\gmtools(香港 敢达)\M_RC\obj\Debug\M_RC.FrmRaceLog.resources
+C:\gmtools(香港 敢达)\M_RC\obj\Debug\M_RC.FrmRCaccontBan.resources
+C:\gmtools(香港 敢达)\M_RC\obj\Debug\M_RC.FrmRcActiveQuery.resources
+C:\gmtools(香港 敢达)\M_RC\obj\Debug\M_RC.FrmRcCodeQuery.resources
+C:\gmtools(香港 敢达)\M_RC\obj\Debug\M_RC.FrmQueryPlayerID.resources
+C:\gmtools(香港 敢达)\M_RC\obj\Debug\M_RC.FrmRCCreateaccont.resources
+C:\gmtools(香港 敢达)\M_RC\obj\Debug\M_RC.FrmRCGmaccont.resources
+C:\gmtools(香港 敢达)\M_RC\obj\Debug\M_RC.FrmRCNotice.resources
+C:\gmtools(香港 敢达)\M_RC\obj\Debug\M_RC.FrmWarePassword.resources
+C:\gmtools(香港 敢达)\M_RC\obj\Debug\M_RC.Properties.Resources.resources
+C:\gmtools(香港 敢达)\M_RC\obj\Debug\M_RC.csproj.GenerateResource.Cache
+C:\gmtools(香港 敢达)\M_RC\obj\Debug\M_RC.dll
+C:\gmtools(香港 敢达)\M_RC\obj\Debug\M_RC.pdb
+C:\gmtools(hongkongSD)\M_RC\bin\Debug\M_RC.dll
+C:\gmtools(hongkongSD)\M_RC\bin\Debug\M_RC.pdb
+C:\gmtools(hongkongSD)\M_RC\bin\Debug\C_Controls.dll
+C:\gmtools(hongkongSD)\M_RC\bin\Debug\C_Event.dll
+C:\gmtools(hongkongSD)\M_RC\bin\Debug\C_Global.dll
+C:\gmtools(hongkongSD)\M_RC\bin\Debug\C_Log.dll
+C:\gmtools(hongkongSD)\M_RC\bin\Debug\C_Socket.dll
+C:\gmtools(hongkongSD)\M_RC\bin\Debug\DividerPanel.dll
+C:\gmtools(hongkongSD)\M_RC\bin\Debug\ImageTextControl.dll
+C:\gmtools(hongkongSD)\M_RC\bin\Debug\Language.dll
+C:\gmtools(hongkongSD)\M_RC\bin\Debug\M_AU.dll
+C:\gmtools(hongkongSD)\M_RC\bin\Debug\M_AU.pdb
+C:\gmtools(hongkongSD)\M_RC\bin\Debug\C_Controls.pdb
+C:\gmtools(hongkongSD)\M_RC\bin\Debug\ImageTextControl.pdb
+C:\gmtools(hongkongSD)\M_RC\obj\Debug\ResolveAssemblyReference.cache
+C:\gmtools(hongkongSD)\M_RC\obj\Debug\M_RC.BrowseMusicName.resources
+C:\gmtools(hongkongSD)\M_RC\obj\Debug\M_RC.BrowseMusicName1.resources
+C:\gmtools(hongkongSD)\M_RC\obj\Debug\M_RC.FrmCSActiveCardQuery.resources
+C:\gmtools(hongkongSD)\M_RC\obj\Debug\M_RC.FrmAddMoney.resources
+C:\gmtools(hongkongSD)\M_RC\obj\Debug\M_RC.FrmBingoCard.resources
+C:\gmtools(hongkongSD)\M_RC\obj\Debug\M_RC.FrmConnectionState.resources
+C:\gmtools(hongkongSD)\M_RC\obj\Debug\M_RC.FrmCoupon.resources
+C:\gmtools(hongkongSD)\M_RC\obj\Debug\M_RC.FrmGameGmQuery.resources
+C:\gmtools(hongkongSD)\M_RC\obj\Debug\M_RC.FrmPlayerPosition.resources
+C:\gmtools(hongkongSD)\M_RC\obj\Debug\M_RC.FrmPlayerTradeLog.resources
+C:\gmtools(hongkongSD)\M_RC\obj\Debug\M_RC.FrmGuildQuery.resources
+C:\gmtools(hongkongSD)\M_RC\obj\Debug\M_RC.FrmMissionLog.resources
+C:\gmtools(hongkongSD)\M_RC\obj\Debug\M_RC.FrmMoneyLog.resources
+C:\gmtools(hongkongSD)\M_RC\obj\Debug\M_RC.FrmQueryMailLog.resources
+C:\gmtools(hongkongSD)\M_RC\obj\Debug\M_RC.FrmQueryMCashLog.resources
+C:\gmtools(hongkongSD)\M_RC\obj\Debug\M_RC.FrmQueryPlayerCar.resources
+C:\gmtools(hongkongSD)\M_RC\obj\Debug\M_RC.FrmQueryPlayerChinfo.resources
+C:\gmtools(hongkongSD)\M_RC\obj\Debug\M_RC.FrmQueryPlayerDeal.resources
+C:\gmtools(hongkongSD)\M_RC\obj\Debug\M_RC.FrmQueryPlayerFriend.resources
+C:\gmtools(hongkongSD)\M_RC\obj\Debug\M_RC.FrmPlayGiftInfo.resources
+C:\gmtools(hongkongSD)\M_RC\obj\Debug\M_RC.FrmQueryPlayerMlog.resources
+C:\gmtools(hongkongSD)\M_RC\obj\Debug\M_RC.FrmQueryPlayerQuestLog.resources
+C:\gmtools(hongkongSD)\M_RC\obj\Debug\M_RC.FrmQueryPlayerSkill.resources
+C:\gmtools(hongkongSD)\M_RC\obj\Debug\M_RC.FrmQueryPlayerState.resources
+C:\gmtools(hongkongSD)\M_RC\obj\Debug\M_RC.FrmQueryRaceState.resources
+C:\gmtools(hongkongSD)\M_RC\obj\Debug\M_RC.FrmRaceLog.resources
+C:\gmtools(hongkongSD)\M_RC\obj\Debug\M_RC.FrmRCaccontBan.resources
+C:\gmtools(hongkongSD)\M_RC\obj\Debug\M_RC.FrmRcActiveQuery.resources
+C:\gmtools(hongkongSD)\M_RC\obj\Debug\M_RC.FrmRcCodeQuery.resources
+C:\gmtools(hongkongSD)\M_RC\obj\Debug\M_RC.FrmQueryPlayerID.resources
+C:\gmtools(hongkongSD)\M_RC\obj\Debug\M_RC.FrmRCCreateaccont.resources
+C:\gmtools(hongkongSD)\M_RC\obj\Debug\M_RC.FrmRCGmaccont.resources
+C:\gmtools(hongkongSD)\M_RC\obj\Debug\M_RC.FrmRCNotice.resources
+C:\gmtools(hongkongSD)\M_RC\obj\Debug\M_RC.FrmWarePassword.resources
+C:\gmtools(hongkongSD)\M_RC\obj\Debug\M_RC.Properties.Resources.resources
+C:\gmtools(hongkongSD)\M_RC\obj\Debug\M_RC.csproj.GenerateResource.Cache
+C:\gmtools(hongkongSD)\M_RC\obj\Debug\M_RC.dll
+C:\gmtools(hongkongSD)\M_RC\obj\Debug\M_RC.pdb

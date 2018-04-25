@@ -1,0 +1,232 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8039596D-CBD8-4D55-81B5-9A335AAC5C43}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>M_AU</RootNamespace>
+    <AssemblyName>M_AU</AssemblyName>
+    <StartupObject>
+    </StartupObject>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="C_Controls, Version=1.0.2257.21931, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\execute\C_Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="C_Event, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\execute\C_Event.dll</HintPath>
+    </Reference>
+    <Reference Include="C_Global, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\execute\C_Global.dll</HintPath>
+    </Reference>
+    <Reference Include="C_Socket, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\execute\C_Socket.dll</HintPath>
+    </Reference>
+    <Reference Include="DividerPanel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=09c394fd536ab886">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\execute\DividerPanel.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CardListFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CardListFrm.Designer.cs">
+      <DependentUpon>CardListFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClearUserInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClearUserInfo.Designer.cs">
+      <DependentUpon>ClearUserInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CloseFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CloseFrm.designer.cs">
+      <DependentUpon>CloseFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsumeListFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsumeListFrm.Designer.cs">
+      <DependentUpon>ConsumeListFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogSearch.Designer.cs">
+      <DependentUpon>LogSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OArray.cs" />
+    <Compile Include="Operation.cs" />
+    <Compile Include="PartStop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PartStop.Designer.cs">
+      <DependentUpon>PartStop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="CardListFrm.resx">
+      <DependentUpon>CardListFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClearUserInfo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ClearUserInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CloseFrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CloseFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsumeListFrm.resx">
+      <DependentUpon>ConsumeListFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogSearch.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>LogSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PartStop.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PartStop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SendReasion.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SendReasion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SendSth.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SendSth.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StarListFrm.resx">
+      <DependentUpon>StarListFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SyncUserNick.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SyncUserNick.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserAbout.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UserAbout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserDetailFrm.resx">
+      <DependentUpon>UserDetailFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="SendAboutInfo.cs" />
+    <Compile Include="SendReasion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SendReasion.Designer.cs">
+      <DependentUpon>SendReasion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SendSth.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SendSth.Designer.cs">
+      <DependentUpon>SendSth.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StarListFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StarListFrm.Designer.cs">
+      <DependentUpon>StarListFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SyncUserNick.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SyncUserNick.Designer.cs">
+      <DependentUpon>SyncUserNick.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserAbout.Designer.cs">
+      <DependentUpon>UserAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserDetailFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserDetailFrm.Designer.cs">
+      <DependentUpon>UserDetailFrm.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Imag_Text_Control\ImageTextControl\ImageTextControl.csproj">
+      <Project>{C26EC1E7-F852-4177-832C-0F7B41DB1CCF}</Project>
+      <Name>ImageTextControl</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <PropertyGroup>
+    <PostBuildEvent>copy $(TargetPath) $(SolutionDir)execute\Modules</PostBuildEvent>
+  </PropertyGroup>
+</Project>

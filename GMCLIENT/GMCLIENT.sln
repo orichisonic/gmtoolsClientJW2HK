@@ -1,0 +1,121 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GMCLIENT", "GMCLIENT\GMCLIENT.csproj", "{3ADD60E0-0039-402E-B0F8-F86B46670E1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M_GM", "M_GM\M_GM.csproj", "{A7A2D066-9D15-44D7-B451-6F01FEA4DCAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M_SDO", "M_SDO\M_SDO.csproj", "{6DB2FDC4-B372-4571-8581-26673E8545D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_Socket", "C_Socket\C_Socket.csproj", "{BCA834E4-DD6B-4733-8C55-8CF1334C8C60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_Event", "C_Event\C_Event.csproj", "{AC4B946A-461E-49F0-B32F-8B9F77A82F4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_Global", "C_Global\C_Global.csproj", "{A2581DD8-A5B1-4A0A-BCB5-866A7BD0879F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageTextControl", "Imag_Text_Control\ImageTextControl\ImageTextControl.csproj", "{C26EC1E7-F852-4177-832C-0F7B41DB1CCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Run", "Update\Run.csproj", "{D1CE8AC6-C9B9-496F-B217-5191F900B208}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_Controls", "C_Controls\C_Controls.csproj", "{FA6A6246-1F2D-4128-9102-AFA5071877D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Language", "Language\Language.csproj", "{0CEF33AA-3E36-4812-BE80-6E74C0E8690B}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 11
+		SccProjectName0 = \u0022$/GM管理系统/超级舞者台湾版/GMCLIENT\u0022,\u0020WPGBAAAA
+		SccLocalPath0 = .
+		SccProvider0 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+		CanCheckoutShared = false
+		SccProjectUniqueName1 = C_Controls\\C_Controls.csproj
+		SccLocalPath1 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection1 = C_Controls\\
+		SccProjectUniqueName2 = C_Event\\C_Event.csproj
+		SccLocalPath2 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection2 = C_Event\\
+		SccProjectUniqueName3 = C_Global\\C_Global.csproj
+		SccLocalPath3 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection3 = C_Global\\
+		SccProjectUniqueName4 = C_Socket\\C_Socket.csproj
+		SccLocalPath4 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection4 = C_Socket\\
+		SccProjectUniqueName5 = GMCLIENT\\GMCLIENT.csproj
+		SccLocalPath5 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection5 = GMCLIENT\\
+		SccProjectUniqueName6 = Imag_Text_Control\\ImageTextControl\\ImageTextControl.csproj
+		SccLocalPath6 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection6 = Imag_Text_Control\\ImageTextControl\\
+		SccProjectUniqueName7 = Language\\Language.csproj
+		SccLocalPath7 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection7 = Language\\
+		SccProjectUniqueName8 = M_GM\\M_GM.csproj
+		SccLocalPath8 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection8 = M_GM\\
+		SccProjectUniqueName9 = M_SDO\\M_SDO.csproj
+		SccLocalPath9 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection9 = M_SDO\\
+		SccProjectUniqueName10 = Update\\Run.csproj
+		SccLocalPath10 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection10 = Update\\
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ADD60E0-0039-402E-B0F8-F86B46670E1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ADD60E0-0039-402E-B0F8-F86B46670E1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ADD60E0-0039-402E-B0F8-F86B46670E1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ADD60E0-0039-402E-B0F8-F86B46670E1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7A2D066-9D15-44D7-B451-6F01FEA4DCAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7A2D066-9D15-44D7-B451-6F01FEA4DCAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7A2D066-9D15-44D7-B451-6F01FEA4DCAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7A2D066-9D15-44D7-B451-6F01FEA4DCAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DB2FDC4-B372-4571-8581-26673E8545D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DB2FDC4-B372-4571-8581-26673E8545D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DB2FDC4-B372-4571-8581-26673E8545D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DB2FDC4-B372-4571-8581-26673E8545D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCA834E4-DD6B-4733-8C55-8CF1334C8C60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA834E4-DD6B-4733-8C55-8CF1334C8C60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCA834E4-DD6B-4733-8C55-8CF1334C8C60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCA834E4-DD6B-4733-8C55-8CF1334C8C60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC4B946A-461E-49F0-B32F-8B9F77A82F4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC4B946A-461E-49F0-B32F-8B9F77A82F4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC4B946A-461E-49F0-B32F-8B9F77A82F4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC4B946A-461E-49F0-B32F-8B9F77A82F4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2581DD8-A5B1-4A0A-BCB5-866A7BD0879F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2581DD8-A5B1-4A0A-BCB5-866A7BD0879F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2581DD8-A5B1-4A0A-BCB5-866A7BD0879F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2581DD8-A5B1-4A0A-BCB5-866A7BD0879F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C26EC1E7-F852-4177-832C-0F7B41DB1CCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C26EC1E7-F852-4177-832C-0F7B41DB1CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C26EC1E7-F852-4177-832C-0F7B41DB1CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C26EC1E7-F852-4177-832C-0F7B41DB1CCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1CE8AC6-C9B9-496F-B217-5191F900B208}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1CE8AC6-C9B9-496F-B217-5191F900B208}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1CE8AC6-C9B9-496F-B217-5191F900B208}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1CE8AC6-C9B9-496F-B217-5191F900B208}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA6A6246-1F2D-4128-9102-AFA5071877D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA6A6246-1F2D-4128-9102-AFA5071877D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA6A6246-1F2D-4128-9102-AFA5071877D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA6A6246-1F2D-4128-9102-AFA5071877D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CEF33AA-3E36-4812-BE80-6E74C0E8690B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CEF33AA-3E36-4812-BE80-6E74C0E8690B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CEF33AA-3E36-4812-BE80-6E74C0E8690B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CEF33AA-3E36-4812-BE80-6E74C0E8690B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
